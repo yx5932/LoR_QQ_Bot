@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/yx5932/LoR_QQ_Bot">
-    <img src="https://github.com/yx5932/LoR_QQ_Bot/blob/main/example1.png" alt="go-cqhttp">
+    <img src="https://github.com/yx5932/LoR_QQ_Bot/blob/main/example1.png" alt="LoR QQ Bot Example 1">
   </a>
 </p>
 
 <div align="center">
 
-# go-cqhttp
+# LoR QQ Bot
 
 _✨ 基于 [Mirai](https://github.com/mamoe/mirai) 以及 [MiraiGo](https://github.com/Mrs4s/MiraiGo) 的 [OneBot](https://github.com/howmanybots/onebot/blob/master/README.md) Golang 原生实现 ✨_  
 
