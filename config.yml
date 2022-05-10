@@ -1,4 +1,4 @@
-# go-cqhttp 默认配置文件
+﻿# go-cqhttp 默认配置文件
 
 account: # 账号相关
   uin: 3398231606 # QQ账号
@@ -19,7 +19,7 @@ account: # 账号相关
 heartbeat:
   # 心跳频率, 单位秒
   # -1 为关闭心跳
-  interval: -1
+  interval: 60
 
 message:
   # 上报数据类型
