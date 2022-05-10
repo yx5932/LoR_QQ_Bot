@@ -1,0 +1,38 @@
+[2022-05-06 13:17:09] [ERROR]: Protocol -> panic on decoder MultiMsg.ApplyDown : runtime error: index out of range [0] with length 0
+goroutine 2584989 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+	github.com/Mrs4s/MiraiGo@v0.0.0-20220209092529-5d071b034c17/client/network.go:332 +0x5d
+panic({0x1472f80, 0xc0009ab650})
+	runtime/panic.go:1038 +0x215
+github.com/Mrs4s/MiraiGo/client.decodeMultiApplyDownResponse(0xc0000cd680, 0x252, {0xc0000cd680, 0x252, 0x252})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20220209092529-5d071b034c17/client/multimsg.go:123 +0x817
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc000509db0)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20220209092529-5d071b034c17/client/network.go:343 +0x1c7
+created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+	github.com/Mrs4s/MiraiGo@v0.0.0-20220209092529-5d071b034c17/client/network.go:329 +0x697
+ 
+[2022-05-06 13:17:09] [ERROR]: 出现错误 packet decode error: MultiMsg.ApplyDown - runtime error: index out of range [0] with length 0. 详细信息已转储至文件 dumps/1651814229.dump 请连同日志提交给开发者处理 
+[2022-05-06 16:59:55] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.237:80: i/o timeout 
+[2022-05-06 16:59:58] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.39:80: i/o timeout 
+[2022-05-06 17:00:01] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.197.51:443: i/o timeout 
+[2022-05-06 17:00:04] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.12.205:80: i/o timeout 
+[2022-05-06 17:00:04] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-05-06 17:00:04] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:21:34] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:21:39] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:22:33] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:22:38] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:23:42] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:23:47] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:23:55] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:24:00] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:38:47] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:38:52] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:48:07] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:48:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:57:42] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:57:47] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-06 21:59:24] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-06 21:59:29] [WARNING]: 群消息发送失败: 账号可能被风控. 

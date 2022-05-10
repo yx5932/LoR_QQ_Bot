@@ -1,0 +1,22 @@
+[2022-04-25 11:53:09] [WARNING]: 获取闪照地址时出现错误: para error 
+[2022-04-25 13:03:44] [WARNING]: 获取闪照地址时出现错误: para error 
+[2022-04-25 13:37:44] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.237:80: i/o timeout 
+[2022-04-25 13:37:52] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.39:80: i/o timeout 
+[2022-04-25 13:37:55] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.199.167:443: i/o timeout 
+[2022-04-25 13:37:58] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.14.68:80: i/o timeout 
+[2022-04-25 13:37:58] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-04-25 13:37:58] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-25 16:07:48] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.175:80: i/o timeout 
+[2022-04-25 16:07:52] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.237:80: i/o timeout 
+[2022-04-25 16:07:55] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.197.51:443: i/o timeout 
+[2022-04-25 16:07:58] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.12.42:80: i/o timeout 
+[2022-04-25 16:07:58] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-04-25 16:07:58] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-25 21:54:08] [ERROR]: Protocol -> upload long message error: unexpected multimsg apply up response: 192 
+[2022-04-25 21:54:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-25 22:26:26] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.39:80: i/o timeout 
+[2022-04-25 22:26:29] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.57:80: i/o timeout 
+[2022-04-25 22:26:32] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.199.167:443: i/o timeout 
+[2022-04-25 22:26:35] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.8.178:80: i/o timeout 
+[2022-04-25 22:26:35] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-04-25 22:26:35] [WARNING]: 群消息发送失败: 账号可能被风控. 

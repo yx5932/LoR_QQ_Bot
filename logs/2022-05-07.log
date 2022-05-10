@@ -1,0 +1,34 @@
+[2022-05-07 14:14:57] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.237:80: i/o timeout 
+[2022-05-07 14:15:00] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.39:80: i/o timeout 
+[2022-05-07 14:15:03] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.35.227:443: i/o timeout 
+[2022-05-07 14:15:06] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.12.42:80: i/o timeout 
+[2022-05-07 14:15:06] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-05-07 14:15:06] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 16:59:23] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 16:59:27] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 16:59:55] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:00:00] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:03:59] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:04:04] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:18:35] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:18:40] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:22:09] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:22:14] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:22:42] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:22:47] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:32:12] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:32:16] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:35:49] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:35:53] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:36:09] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:36:14] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:44:35] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:44:40] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:49:15] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:49:20] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 17:50:47] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 17:50:52] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 18:03:33] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 18:03:38] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-07 18:10:44] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-07 18:10:49] [WARNING]: 群消息发送失败: 账号可能被风控. 

@@ -1,0 +1,30 @@
+[2022-04-28 01:07:12] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 01:45:59] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 01:46:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 07:11:59] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.175:80: i/o timeout 
+[2022-04-28 07:12:02] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.237:80: i/o timeout 
+[2022-04-28 07:12:05] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.35.227:443: i/o timeout 
+[2022-04-28 07:12:08] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.8.178:80: i/o timeout 
+[2022-04-28 07:12:08] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-04-28 07:12:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 10:41:34] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 10:41:39] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 10:42:51] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 10:42:56] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 10:43:13] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 10:43:18] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 16:09:30] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 16:09:36] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 19:31:56] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 19:32:01] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 22:09:08] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.57:80: i/o timeout 
+[2022-04-28 22:09:11] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.175:80: i/o timeout 
+[2022-04-28 22:09:14] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.35.227:443: i/o timeout 
+[2022-04-28 22:09:17] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.14.68:80: i/o timeout 
+[2022-04-28 22:09:17] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-04-28 22:09:17] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 22:52:14] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 22:55:52] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 22:55:57] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-28 23:33:45] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-28 23:33:50] [WARNING]: 群消息发送失败: 账号可能被风控. 

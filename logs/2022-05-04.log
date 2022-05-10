@@ -1,0 +1,35 @@
+[2022-05-04 11:19:56] [WARNING]: 获取闪照地址时出现错误: para error 
+[2022-05-04 12:03:31] [WARNING]: 发送临时会话消息失败: 已关闭临时会话信息发送功能 
+[2022-05-04 12:04:03] [WARNING]: 发送临时会话消息失败: 已关闭临时会话信息发送功能 
+[2022-05-04 12:04:49] [WARNING]: 发送临时会话消息失败: 已关闭临时会话信息发送功能 
+[2022-05-04 16:06:39] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 16:06:44] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 16:08:34] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 16:08:39] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 16:08:56] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 16:09:01] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 16:12:11] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 16:12:16] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 16:13:03] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 16:13:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 16:13:37] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 16:13:42] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 17:58:11] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 17:58:16] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 18:03:27] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 18:03:32] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 19:56:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 23:25:42] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 23:25:47] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 23:26:24] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 23:26:29] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 23:36:06] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 23:36:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 23:36:30] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 23:36:35] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 23:36:48] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 23:36:53] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 23:42:29] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 23:42:34] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-05-04 23:44:33] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-05-04 23:44:38] [WARNING]: 群消息发送失败: 账号可能被风控. 

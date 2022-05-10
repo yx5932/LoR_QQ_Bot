@@ -1,0 +1,19 @@
+[2022-04-27 01:41:06] [WARNING]: 获取闪照地址时出现错误: para error 
+[2022-04-27 08:43:48] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-27 08:43:53] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-27 08:45:36] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-27 08:45:48] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-27 08:48:44] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-27 08:48:49] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-27 12:44:37] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-27 12:44:42] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-27 15:51:52] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-27 15:52:00] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-27 20:40:37] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.227.39:80: i/o timeout 
+[2022-04-27 20:40:40] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 109.244.255.57:80: i/o timeout 
+[2022-04-27 20:40:43] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.35.227:443: i/o timeout 
+[2022-04-27 20:40:46] [ERROR]: Protocol -> highway upload long message error: connect error: dial tcp 175.27.12.205:80: i/o timeout 
+[2022-04-27 20:40:46] [ERROR]: Protocol -> upload long message error: highway server list is empty or not available server. 
+[2022-04-27 20:40:46] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-04-27 23:23:32] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2022-04-27 23:23:37] [WARNING]: 群消息发送失败: 账号可能被风控. 

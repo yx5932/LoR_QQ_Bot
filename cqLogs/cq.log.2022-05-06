@@ -1,0 +1,1764 @@
+[2022-05-06 17:29:09,342][command][INFO] PyCqBot: 亚库 (qq=494497762,群号=750653891) 使用指令: #lux
+[2022-05-06 17:29:09,799][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 167140209}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:29:15,401][command][INFO] PyCqBot: 美服 baijiubaijiueee 5558 (qq=3115945233,群号=750653891) 使用指令: #卡组 艾希
+[2022-05-06 17:29:16,224][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2040311806}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:38:08,858][command][INFO] PyCqBot: bigPS#5108 (qq=798811134,群号=585608546) 使用指令: #卡组 女枪
+[2022-05-06 17:38:09,606][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1712419796}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:38:48,118][command][INFO] PyCqBot: 指令 #蜘蛛烧 不存在...
+[2022-05-06 17:38:48,373][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 589239307}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:38:52,069][command][INFO] PyCqBot: yx5932 (qq=593261870,群号=477949486) 使用指令: #卡组 蜘蛛
+[2022-05-06 17:38:52,833][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -854493913}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:42:47,729][command][INFO] PyCqBot: bigPS#5108 (qq=798811134,群号=585608546) 使用指令: #卡组 拉克丝
+[2022-05-06 17:42:48,682][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1676074125}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:49:24,596][command][INFO] PyCqBot: bigPS#5108 (qq=798811134,群号=585608546) 使用指令: #卡组 蔚
+[2022-05-06 17:49:31,143][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1372634639}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:49:36,854][command][INFO] PyCqBot: 亚服—4V之吴彤 (qq=598060401,群号=750653891) 使用指令: #卡组 杰斯
+[2022-05-06 17:49:37,602][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1949898474}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:51:02,584][command][INFO] PyCqBot: 朋友们都叫我睡神 (qq=849299714,群号=750653891) 使用指令: #卡组 轮子妈
+[2022-05-06 17:51:03,325][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1820247057}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:52:48,412][command][INFO] PyCqBot: 亚服 tifatxqq#5916 (qq=2622527179,群号=545327542) 使用指令: #卡组 杰斯
+[2022-05-06 17:52:49,236][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1638238310}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:53:00,051][command][INFO] PyCqBot: wait for&爱 (qq=277692818,群号=750653891) 使用指令: #卡组 杰斯
+[2022-05-06 17:53:00,786][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1524886130}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:55:28,087][command][INFO] PyCqBot: 群员的野爹 (qq=460705073,群号=585608546) 使用指令: #卡组 无英雄
+[2022-05-06 17:55:28,809][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1336298327}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:58:34,134][command][INFO] PyCqBot: 攒运气ing (qq=1402008046,群号=545327542) 使用指令: #卡组 蜘蛛
+[2022-05-06 17:58:35,194][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -987901738}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:58:44,424][command][INFO] PyCqBot: 狡猾夜龙（永别了牢笼！） (qq=334394930,群号=585608546) 使用指令: #卡组 杰斯
+[2022-05-06 17:58:45,208][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -559805101}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 17:59:17,780][command][INFO] PyCqBot: 狡猾夜龙（永别了牢笼！） (qq=334394930,群号=585608546) 使用指令: #代码 ：CQCACAIEGQBACBIBFABAKBILB4CAKBAWDANR6BABAECBWAIFBKMACAIFAUBQEAIFGE2QGAICAQEACAYEBMAQKBAV
+[2022-05-06 17:59:18,725][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 816606335}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:04:13,863][command][INFO] PyCqBot: 生姜 (qq=3206493501,群号=750653891) 使用指令: #卡组 龙王
+[2022-05-06 18:04:14,872][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2132095363}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:04:59,833][command][INFO] PyCqBot: 指令 #经验 不存在...
+[2022-05-06 18:05:00,191][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 44383030}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:06:18,466][command][INFO] PyCqBot: re. (qq=2028108314,群号=477949486) 使用指令: #卡组 寒冰
+[2022-05-06 18:06:19,429][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2101912627}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:06:52,791][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 兰博
+[2022-05-06 18:06:53,608][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1002359952}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:06:54,601][command][INFO] PyCqBot: 美服 XQX#9527 (qq=2328064782,群号=545327542) 使用指令: #卡组 泽拉斯
+[2022-05-06 18:06:55,620][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2049233509}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:07:24,648][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 卢锡安
+[2022-05-06 18:07:25,697][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 172893930}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:07:55,376][command][INFO] PyCqBot: re. (qq=2028108314,群号=477949486) 使用指令: #卡组 纳尔
+[2022-05-06 18:07:56,157][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1824078561}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:08:16,301][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 克黎思妲
+[2022-05-06 18:08:19,652][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1665131300}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:09:17,776][command][INFO] PyCqBot: 指令 #卡莉斯塔 不存在...
+[2022-05-06 18:09:18,130][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1508060725}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:09:22,875][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 滑板鞋
+[2022-05-06 18:09:23,831][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1333753086}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:09:40,390][command][INFO] PyCqBot: jpn    谁将岁月轻描淡写从此人生纸墨云烟#1746 (qq=2628495866,群号=545327542) 使用指令: #卡组 卡莉斯塔
+[2022-05-06 18:09:41,356][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1187592405}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:09:48,666][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 克黎思妲
+[2022-05-06 18:09:49,542][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1090002806}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:11:28,123][command][INFO] PyCqBot: jpn    谁将岁月轻描淡写从此人生纸墨云烟#1746 (qq=2628495866,群号=545327542) 使用指令: #卡组 卡莉丝塔
+[2022-05-06 18:11:28,941][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -812995544}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:12:11,607][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 卡莉丝塔
+[2022-05-06 18:12:12,510][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 652806429}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:12:34,653][command][INFO] PyCqBot: liquid up up (qq=755329832,群号=585608546) 使用指令: #卡组 阿克尚
+[2022-05-06 18:12:34,680][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 卡莉斯塔
+[2022-05-06 18:12:35,512][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -243000198}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:12:35,524][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1239878818}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:13:26,508][command][INFO] PyCqBot: 憨八嘎 (qq=2133843581,群号=545327542) 使用指令: #卡组 卡莉斯塔
+[2022-05-06 18:13:27,488][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1728718412}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:14:35,279][command][INFO] PyCqBot: 美服 Astral Bard#5156 (qq=190701834,群号=545327542) 使用指令: #卡组 岩雀
+[2022-05-06 18:14:36,056][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 593991654}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:16:12,825][command][INFO] PyCqBot: 林夕 (qq=790696938,群号=651838358) 使用指令: #lux
+[2022-05-06 18:16:13,470][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -763536287}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:16:17,137][command][INFO] PyCqBot: 佐伊的星界犬 (qq=2301600075,群号=983596236) 使用指令: #卡组 佛耶戈
+[2022-05-06 18:16:17,913][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -143311227}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:17:43,470][command][INFO] PyCqBot: 佐伊的星界犬 (qq=2301600075,群号=983596236) 使用指令: #code CMBQGAIFBMYDCAYEAUBTMNYFAQDS6NTHNV4QGAIBAUMQCBAHHMAQIBIEAEAQIBIQ
+[2022-05-06 18:17:44,390][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 427515817}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:19:14,269][command][INFO] PyCqBot: 佐伊的星界犬 (qq=2301600075,群号=983596236) 使用指令: #code CEBQCBACA4CACBIBFAVTCBQEAUBQKEBVGY3QCAQBAISTSAYBAEBDCAIBAUMQCBAFAQ
+[2022-05-06 18:19:15,152][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -266798436}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:19:22,724][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 塔里克
+[2022-05-06 18:19:23,504][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1355541393}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:33:34,299][command][INFO] PyCqBot: Dr.Moh (qq=2685841290,群号=174504130) 使用指令: #卡组 泰坦
+[2022-05-06 18:33:35,303][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2083034272}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:33:57,086][command][INFO] PyCqBot: 美服 SobWoovereign#6191 (qq=249477079,群号=174504130) 使用指令: #卡组 大树
+[2022-05-06 18:33:59,381][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1685014119}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:35:00,920][command][INFO] PyCqBot: 美服 Astral Bard#5156 (qq=190701834,群号=545327542) 使用指令: #卡组 提莫
+[2022-05-06 18:35:01,666][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1215004997}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:35:30,064][command][INFO] PyCqBot: 欧服-弱不禁风小太妹 (qq=287868847,群号=545327542) 使用指令: #卡组 阿狸
+[2022-05-06 18:35:31,645][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 446760726}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:38:52,288][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 拉克丝
+[2022-05-06 18:38:53,036][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1794190562}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:39:02,577][command][INFO] PyCqBot: . (qq=478136062,群号=545327542) 使用指令: #17000
+[2022-05-06 18:39:02,830][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1678801835}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:39:25,601][command][INFO] PyCqBot: W (qq=1687615692,群号=477949486) 使用指令: #卡组 船长
+[2022-05-06 18:39:26,381][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -368774092}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:39:53,811][command][INFO] PyCqBot: 闹够了就去吃药う (qq=1175978339,群号=750653891) 使用指令: #卡组 龙王
+[2022-05-06 18:39:54,608][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1777359594}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:40:14,617][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 塞恩
+[2022-05-06 18:40:15,314][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -311873491}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:43:02,039][command][INFO] PyCqBot: 指令 # ez 不存在...
+[2022-05-06 18:43:02,530][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1958545089}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:43:09,820][command][INFO] PyCqBot: alienalice (qq=909349886,群号=545327542) 使用指令: #卡组 ez
+[2022-05-06 18:43:10,546][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1699518483}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:43:12,539][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 纳尔
+[2022-05-06 18:43:13,286][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 444358720}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:43:15,556][command][INFO] PyCqBot: 欧服-弱不禁风小太妹 (qq=287868847,群号=545327542) 使用指令: #卡组 娜美
+[2022-05-06 18:43:16,289][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2097892074}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:43:31,737][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 乌鸦
+[2022-05-06 18:43:32,560][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -941863524}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:43:55,748][command][INFO] PyCqBot: 朋友们都叫我睡神 (qq=849299714,群号=750653891) 使用指令: #卡组 美人贝
+[2022-05-06 18:43:56,705][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -754607564}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:44:59,027][command][INFO] PyCqBot: 蒸饭鸡 (qq=2380302677,群号=477949486) 使用指令: #卡组 艾瑞莉娅
+[2022-05-06 18:44:59,654][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 784328873}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:45:37,093][command][INFO] PyCqBot: 指令 #梦魇 不存在...
+[2022-05-06 18:45:37,453][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1493012763}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:45:40,056][command][INFO] PyCqBot: 美服 baijiubaijiueee 5558 (qq=3115945233,群号=750653891) 使用指令: #help
+[2022-05-06 18:45:40,955][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1552978245}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:45:47,504][command][INFO] PyCqBot: 朋友们都叫我睡神 (qq=849299714,群号=750653891) 使用指令: #卡组 水獭
+[2022-05-06 18:45:48,540][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1154958268}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:46:00,528][command][INFO] PyCqBot: hk.Sherwzqwzq#5011 (qq=1025230824,群号=545327542) 使用指令: #卡组 梦魇
+[2022-05-06 18:46:01,329][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1225527241}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:46:08,293][command][INFO] PyCqBot: 漂舟雪隐 (qq=1871748134,群号=750653891) 使用指令: #卡组 恶搞
+[2022-05-06 18:46:09,136][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1394080463}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:46:10,263][command][INFO] PyCqBot: zzzzzz (qq=1223134363,群号=545327542) 使用指令: #卡组 阿克尚
+[2022-05-06 18:46:11,034][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1603294466}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:47:24,573][command][INFO] PyCqBot: 欧服-弱不禁风小太妹 (qq=287868847,群号=545327542) 使用指令: #卡组 拉克丝
+[2022-05-06 18:47:25,385][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1445337385}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:47:47,952][command][INFO] PyCqBot: 美服 KaroNGGG#6963 (qq=731780745,群号=545327542) 使用指令: #卡组 船长
+[2022-05-06 18:47:48,702][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1105633370}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:49:58,307][command][INFO] PyCqBot: 蒸饭鸡 (qq=2380302677,群号=477949486) 使用指令: #卡组 小鱼人
+[2022-05-06 18:49:59,008][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -169201890}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:50:01,413][command][INFO] PyCqBot: Sorrymaker (qq=593921254,群号=750653891) 使用指令: #卡组 大树
+[2022-05-06 18:50:01,585][command][INFO] PyCqBot: 漂舟雪隐 (qq=1871748134,群号=750653891) 使用指令: #卡组 大树
+[2022-05-06 18:50:02,234][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 371632347}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:50:02,532][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1892681375}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:53:49,084][command][INFO] PyCqBot: 翎河 (qq=2572049412,群号=909862218) 使用指令: #卡组 ez
+[2022-05-06 18:53:49,974][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1420846467}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:54:06,279][command][INFO] PyCqBot: 攒运气ing (qq=1402008046,群号=545327542) 使用指令: #卡组 金克丝
+[2022-05-06 18:54:07,109][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 245839517}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 18:54:59,796][command][INFO] PyCqBot: 翎河 (qq=2572049412,群号=909862218) 使用指令: #卡组 凯特琳
+[2022-05-06 18:55:00,742][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1291302778}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:00:00,709][command][INFO] PyCqBot: 亚服 bilibili这个不是派克 (qq=1937778018,群号=545327542) 使用指令: #help
+[2022-05-06 19:00:01,753][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 426217454}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:00:29,741][command][INFO] PyCqBot: 亚服 bilibili这个不是派克 (qq=1937778018,群号=545327542) 使用指令: #经验池
+[2022-05-06 19:00:35,842][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1016157215}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:01:25,699][command][INFO] PyCqBot: 谈恋爱不如打牌 (qq=2417513407,群号=629196824) 使用指令: #经验池
+[2022-05-06 19:01:26,631][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 760696501}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:02:44,933][command][INFO] PyCqBot: daniel (qq=2606367156,群号=909862218) 使用指令: #卡组 ez
+[2022-05-06 19:02:45,946][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1036099661}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:03:56,128][command][INFO] PyCqBot: 亚库 (qq=494497762,群号=750653891) 使用指令: #pc
+[2022-05-06 19:03:57,058][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -222317303}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:09:50,472][command][INFO] PyCqBot: _ (qq=2336003248,群号=545327542) 使用指令: #卡组 纳尔
+[2022-05-06 19:09:51,252][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -234829804}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:11:17,663][command][INFO] PyCqBot: 杰杰 (qq=7170363,群号=545327542) 使用指令: #卡组 蜘蛛
+[2022-05-06 19:11:18,474][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -177402867}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:13:56,476][command][INFO] PyCqBot: 憨八嘎 (qq=2133843581,群号=545327542) 使用指令: #卡组 女枪
+[2022-05-06 19:13:57,274][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1708265884}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:15:04,890][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #卡组 塞恩
+[2022-05-06 19:15:05,666][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1718878810}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:15:05,719][command][INFO] PyCqBot: _ (qq=2336003248,群号=545327542) 使用指令: #卡组 女枪
+[2022-05-06 19:15:06,459][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1070159210}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:16:26,320][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 660962758}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:17:05,149][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1201861667}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:17:23,842][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -950309233}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:20:36,178][command][INFO] PyCqBot: Burger (qq=3270453139,群号=545327542) 使用指令: #卡组 乌迪尔
+[2022-05-06 19:20:36,960][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -651322409}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:22:39,340][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 134781107}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:22:45,284][command][INFO] PyCqBot: 充值别@我没别回弹视频 (qq=2456688601,群号=545327542) 使用指令: #卡组 巨魔
+[2022-05-06 19:22:46,722][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -435750497}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:23:06,255][command][INFO] PyCqBot: 充值别@我没别回弹视频 (qq=2456688601,群号=545327542) 使用指令: #卡组 纳尔
+[2022-05-06 19:23:07,368][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 377384427}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:23:46,988][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1087320122}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:25:42,228][command][INFO] PyCqBot: 四个胳膊以上的都爱 (qq=1416274436,群号=1060536929) 使用指令: #卡组 岩雀
+[2022-05-06 19:25:43,121][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2074569428}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:28:01,451][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1351622043}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:28:35,755][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #卡组 奎因
+[2022-05-06 19:28:36,461][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1096909641}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:29:16,816][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1232698385}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:30:53,290][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1821353952}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:35:28,885][command][INFO] PyCqBot: MADAOAO (qq=1034062978,群号=983596236) 使用指令: #卡组 飞升
+[2022-05-06 19:35:29,672][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1762765606}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:36:04,970][command][INFO] PyCqBot: Renekton (qq=2609073861,群号=545327542) 使用指令: #排行榜 亚服 やまと
+[2022-05-06 19:36:08,324][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -30323920}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:37:45,645][command][INFO] PyCqBot: 充值别@我没别回弹视频 (qq=2456688601,群号=545327542) 使用指令: #卡组 希维尔
+[2022-05-06 19:37:46,381][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -416646543}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:37:55,030][command][INFO] PyCqBot: SAW    SAW (qq=849880653,群号=585608546) 使用指令: #卡组 金克丝
+[2022-05-06 19:37:55,844][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1728027149}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:38:38,932][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -219467197}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:38:45,716][command][INFO] PyCqBot: Renekton (qq=2609073861,群号=545327542) 使用指令: #code CMBAEBADAQJQIBAHCQTDNCQBAQAQKAYTAIAQGCY7AMCAGAQIB4BQIBYNEBOQGAIEAMFACBAHNUBACAYTDA
+[2022-05-06 19:38:46,776][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 627346567}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:39:15,139][command][INFO] PyCqBot: 撕票狂魔 (qq=421169669,群号=160740083) 使用指令: #卡组 女枪
+[2022-05-06 19:39:16,154][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1649684434}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:39:51,186][command][INFO] PyCqBot: 撕票狂魔 (qq=421169669,群号=160740083) 使用指令: #code CICACBIGAEBAEAYDAQBQEBQWEY6AIAIDAIGA6KACAEAQGJIDAIDCALJ6AEBAEBQ2HI
+[2022-05-06 19:39:52,048][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1972672161}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:40:06,472][command][INFO] PyCqBot: Renekton (qq=2609073861,群号=545327542) 使用指令: #卡组 版本答案
+[2022-05-06 19:40:07,242][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -882184789}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:40:52,068][command][INFO] PyCqBot: Renekton (qq=2609073861,群号=545327542) 使用指令: #卡组表现
+[2022-05-06 19:40:52,829][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 571033758}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:41:41,472][command][INFO] PyCqBot: 指令 #解析CEBQCAQAAEBACAQTEACACAAJB4QSUBIBAEBDCAICAACQCAQCBEAQKAAMAMAQACY5EUBQCBACBUAQKAQCAMAQEGBFFM 不存在...
+[2022-05-06 19:41:42,464][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1928942264}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:41:53,763][command][INFO] PyCqBot: 指令 #解析CEBQCAQAAEBACAQTEACACAAJB4QSUBIBAEBDCAICAACQCAQCBEAQKAAMAMAQACY5EUBQCBACBUAQKAQCAMAQEGBFFM 不存在...
+[2022-05-06 19:41:54,755][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1661521004}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:43:59,833][command][INFO] PyCqBot: 攒运气ing (qq=1402008046,群号=545327542) 使用指令: #卡组 蜘蛛
+[2022-05-06 19:44:00,592][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1555575843}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:48:37,681][command][INFO] PyCqBot: 指令 #卡组船长 不存在...
+[2022-05-06 19:48:38,231][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 849622516}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:48:57,621][command][INFO] PyCqBot: Lsir (qq=1262285455,群号=545327542) 使用指令: #卡组 船长
+[2022-05-06 19:49:04,183][command][INFO] PyCqBot: 時雨 (qq=1242429586,群号=909862218) 使用指令: #卡组 船长
+[2022-05-06 19:49:04,204][command][INFO] PyCqBot: 指令 #卡组普朗克 不存在...
+[2022-05-06 19:49:05,406][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1657779667}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:49:05,410][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -365462853}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:49:05,995][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2120178807}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:49:36,103][command][INFO] PyCqBot: 南苑丶秋草 (qq=1874738660,群号=545327542) 使用指令: #卡组 船长
+[2022-05-06 19:49:37,285][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 55893902}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:49:52,846][command][INFO] PyCqBot: 攒运气ing (qq=1402008046,群号=545327542) 使用指令: #卡组 杰斯
+[2022-05-06 19:49:53,560][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -312820062}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:55:38,371][command][INFO] PyCqBot: 云 (qq=1447308509,群号=545327542) 使用指令: #卡图 迷你海兽
+[2022-05-06 19:55:42,090][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1456009456}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:57:08,896][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡图 妖精爷爷
+[2022-05-06 19:57:11,817][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -783225793}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:57:55,275][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡图 饥饿猫耳鸮
+[2022-05-06 19:57:58,430][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 681456736}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 19:58:46,708][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 女枪
+[2022-05-06 19:58:47,410][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1845503046}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:01:31,831][command][INFO] PyCqBot: Kass (qq=2528308396,群号=477949486) 使用指令: #卡组表现
+[2022-05-06 20:01:32,621][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1389798340}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:01:58,155][command][INFO] PyCqBot: 指令 #codeCMBQCAICFIBQIAQFBAEQGBAHBMGWSAQDAEBAMJJRAMCAOJKJJQBQCBACAQBQGAQUCYMQGBAHANEG2 不存在...
+[2022-05-06 20:01:59,197][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1254094057}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:02:51,855][command][INFO] PyCqBot: 鲨鱼辣椒 (qq=875560680,群号=585608546) 使用指令: #卡组 凤凰
+[2022-05-06 20:02:52,654][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1666284723}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:05:30,517][command][INFO] PyCqBot: 鲨鱼辣椒 (qq=875560680,群号=585608546) 使用指令: #卡组 艾尼维亚
+[2022-05-06 20:05:31,279][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1976379002}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:06:46,142][command][INFO] PyCqBot: 時雨 (qq=1242429586,群号=909862218) 使用指令: #卡组 蔚
+[2022-05-06 20:06:47,088][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1100187156}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:07:17,197][command][INFO] PyCqBot: 時雨 (qq=1242429586,群号=909862218) 使用指令: #卡组 艾希
+[2022-05-06 20:07:18,111][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 660940886}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:07:27,655][command][INFO] PyCqBot: 時雨 (qq=1242429586,群号=909862218) 使用指令: #卡组 蛮王
+[2022-05-06 20:07:29,191][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1608872780}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:08:00,759][MainThread][INFO] PyCqBot: 接收到 at bot 性格如此 (qq=913597917,群号=909862218) 
+[2022-05-06 20:08:27,985][command][INFO] PyCqBot: 性格如此 (qq=913597917,群号=909862218) 使用指令: #卡组 沙皇
+[2022-05-06 20:08:29,012][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 957603086}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:11:29,365][command][INFO] PyCqBot: 屑老板 (qq=2954180481,群号=585608546) 使用指令: #卡组 布隆
+[2022-05-06 20:11:30,148][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1807471394}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:12:15,253][command][INFO] PyCqBot: 泥头车 (qq=2841526392,群号=585608546) 使用指令: #卡组 派克
+[2022-05-06 20:12:16,029][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2099743211}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:12:57,814][command][INFO] PyCqBot: 泥头车 (qq=2841526392,群号=585608546) 使用指令: #卡组 阿克尚
+[2022-05-06 20:12:58,616][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1825969977}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:15:52,838][command][INFO] PyCqBot: 美服 AYUE #2354 (qq=1249083818,群号=750653891) 使用指令: #card 龙女
+[2022-05-06 20:15:56,757][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2016671992}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:20:54,421][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #卡组 兰博
+[2022-05-06 20:20:55,102][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 516895858}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:23:00,273][command][INFO] PyCqBot: 指令 #排行榜美服 不存在...
+[2022-05-06 20:23:00,516][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1355956493}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:23:14,781][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #排行榜 美服
+[2022-05-06 20:23:19,614][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1082080359}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:24:05,850][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #排行榜 欧服
+[2022-05-06 20:24:09,808][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1659118479}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:24:33,006][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #排行榜 亚服
+[2022-05-06 20:24:36,794][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 332543160}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:24:49,440][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #卡组 巨魔
+[2022-05-06 20:24:50,305][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 348123297}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:33:03,835][command][INFO] PyCqBot: THE LICH KING (qq=1054637093,群号=909862218) 使用指令: #卡组 维克托
+[2022-05-06 20:33:06,720][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1952446706}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:36:16,939][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=1060536929) 使用指令: #卡组  冰剑姬
+[2022-05-06 20:36:21,581][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1635439467}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:38:02,531][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=1060536929) 使用指令: #代码 CMCQCAIEEQAQGBARAICAIAQHAICQOBYLAQCAODJHM5WQGAIFA4LAEAIEE4XAEAYEBMKAA
+[2022-05-06 20:38:03,504][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -887553045}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:41:42,329][command][INFO] PyCqBot: 時雨 (qq=1242429586,群号=909862218) 使用指令: #卡组 飞升
+[2022-05-06 20:41:43,339][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1671381377}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:44:25,262][command][INFO] PyCqBot: THE LICH KING (qq=1054637093,群号=909862218) 使用指令: #卡组 石头人
+[2022-05-06 20:44:26,334][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1919868755}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:46:15,217][command][INFO] PyCqBot: 暗黑佟大为 (qq=3284438885,群号=909862218) 使用指令: #卡组 金克丝
+[2022-05-06 20:46:16,650][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1693615512}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:49:27,309][command][INFO] PyCqBot: 亚服11 (qq=1335198438,群号=477949486) 使用指令: #卡组 巨魔
+[2022-05-06 20:49:28,168][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1518646669}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:50:12,682][command][INFO] PyCqBot: 亚服11 (qq=1335198438,群号=477949486) 使用指令: #解析 CECACBABBYBACAIME4BACBIBFACAGAIDAYFBMBABAECR2AIDAEJQCBABBIBACAIUGQBACAIBAEBACBIPDE
+[2022-05-06 20:50:13,565][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1265970015}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:51:10,388][command][INFO] PyCqBot: 漂游城主 (qq=1766460678,群号=909862218) 使用指令: #卡组 派克
+[2022-05-06 20:51:19,960][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1963137868}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:53:39,884][command][INFO] PyCqBot: 漂游城主 (qq=1766460678,群号=909862218) 使用指令: #卡组 巨魔
+[2022-05-06 20:53:41,137][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1833224627}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:54:00,774][command][INFO] PyCqBot: 漂游城主 (qq=1766460678,群号=909862218) 使用指令: #卡组 冰女
+[2022-05-06 20:54:03,155][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1219629634}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:54:28,831][command][INFO] PyCqBot: ▄︻┻┳═一 (qq=124433626,群号=545327542) 使用指令: #卡组 电耗子
+[2022-05-06 20:54:29,884][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 569358371}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:55:08,483][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #卡组 杰斯
+[2022-05-06 20:55:09,168][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -977484906}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:55:29,937][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #code CECACAIFAEAQIBAOAMAQIEA3HABQKBAWDAOQKAIBAQ2ACAIFFAAQGBANAECAIDYDAUCAYGY7AIAQKBARAECQKAY
+[2022-05-06 20:55:30,783][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -532015001}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:55:32,288][command][INFO] PyCqBot: CCY (qq=865493611,群号=651838358) 使用指令: #help
+[2022-05-06 20:55:33,085][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 991885652}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:57:17,645][command][INFO] PyCqBot: 指令 #查询 傻瓜式卡组 不存在...
+[2022-05-06 20:57:17,902][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1367690412}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 20:57:36,247][command][INFO] PyCqBot: 云 (qq=1447308509,群号=545327542) 使用指令: #卡组 不需要思考
+[2022-05-06 20:57:37,136][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1237491285}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:06:10,208][command][INFO] PyCqBot: 魔法少女厄加特 (qq=3382106571,群号=477949486) 使用指令: #卡组 刀妹
+[2022-05-06 21:06:10,955][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1982044796}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:12:03,907][command][INFO] PyCqBot: re. (qq=2028108314,群号=477949486) 使用指令: #卡组 潘森
+[2022-05-06 21:12:04,861][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1165129334}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:13:27,041][command][INFO] PyCqBot: 台服 花鸟卷2138 (qq=785161824,群号=545327542) 使用指令: #卡组 泽拉斯
+[2022-05-06 21:13:27,853][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 658511373}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:16:41,927][command][INFO] PyCqBot: 亚服  李知恩#3989（打瓦罗兰特也可以加我） (qq=986481233,群号=477949486) 使用指令: #卡组 金克斯
+[2022-05-06 21:16:42,622][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -682164059}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:18:24,677][command][INFO] PyCqBot: 漂游城主 (qq=1766460678,群号=909862218) 使用指令: #卡组 塞恩
+[2022-05-06 21:18:25,976][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1497599122}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:19:58,508][command][INFO] PyCqBot: 子非鱼 (qq=1090762188,群号=477949486) 使用指令: #卡组 。潘森
+[2022-05-06 21:19:59,491][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 191824651}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:20:06,112][command][INFO] PyCqBot: 子非鱼 (qq=1090762188,群号=477949486) 使用指令: #卡组 潘森
+[2022-05-06 21:20:06,865][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1945065495}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:21:34,096][command][INFO] PyCqBot: Renekton (qq=2609073861,群号=545327542) 使用指令: #art 旗袍桃桃
+[2022-05-06 21:21:39,716][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:21:39,716][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 21:22:32,775][command][INFO] PyCqBot: Renekton (qq=2609073861,群号=545327542) 使用指令: #art 桃桃
+[2022-05-06 21:22:38,307][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:22:38,307][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 21:23:41,972][command][INFO] PyCqBot: 指令 #最牛逼的卡组 不存在...
+[2022-05-06 21:23:47,203][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:23:47,206][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 21:23:55,165][command][INFO] PyCqBot: 小松鼠要茁壮成长 (qq=1009185656,群号=545327542) 使用指令: #卡组
+[2022-05-06 21:23:55,165][command][INFO] PyCqBot: 指令 #卡组 运行时错误... Error: list index out of range
+[2022-05-06 21:23:55,165][command][ERROR] PyCqBot: list index out of range
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\site-packages\pycqBot\cqApi.py", line 731, in run_command
+    self._commandList[command]["function"](commandData, cqCode_list, message, from_id)
+  File "main.py", line 317, in deck
+    print(commandData[0] == "all" or commandData[0] == "所有" or commandData[0] == "全")
+IndexError: list index out of range
+[2022-05-06 21:24:00,462][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:24:00,463][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 21:25:55,888][command][INFO] PyCqBot: 寸灰 (qq=1640645122,群号=750653891) 使用指令: #卡组 卡尔玛
+[2022-05-06 21:25:57,358][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 236001908}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:26:40,948][command][INFO] PyCqBot: Aurora. (qq=2811165074,群号=585608546) 使用指令: #卡组 塞恩
+[2022-05-06 21:26:41,676][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1057107526}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:30:33,665][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1696164528}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:33:30,393][command][INFO] PyCqBot: 指令 # 卡组 潘森 不存在...
+[2022-05-06 21:33:30,735][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 597210284}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:33:38,843][command][INFO] PyCqBot: 拳头账号交易谨防上当受骗 (qq=1006316628,群号=1060536929) 使用指令: #卡组 潘森
+[2022-05-06 21:33:39,833][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 878185951}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:35:29,388][command][INFO] PyCqBot: Kass (qq=2528308396,群号=477949486) 使用指令: #card 佐伊
+[2022-05-06 21:35:30,113][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1479336461}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:36:24,314][command][INFO] PyCqBot: Kass (qq=2528308396,群号=477949486) 使用指令: #cc 03MT009T1
+[2022-05-06 21:36:29,999][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1459055167}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:38:23,239][command][INFO] PyCqBot: 高老头 (qq=569117544,群号=477949486) 使用指令: #卡组 艾克
+[2022-05-06 21:38:23,992][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1929490896}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:38:47,506][command][INFO] PyCqBot: 指令 #大佬专用卡组 不存在...
+[2022-05-06 21:38:52,813][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:38:52,815][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 21:48:05,725][command][INFO] PyCqBot: 谢莹莹 (qq=2417513407,群号=545327542) 使用指令: #卡组 船长
+[2022-05-06 21:48:11,351][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:48:11,351][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 21:49:51,150][command][INFO] PyCqBot: 谢莹莹 (qq=2417513407,群号=1060536929) 使用指令: #卡组 船长
+[2022-05-06 21:49:52,483][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1864346259}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:52:47,829][command][INFO] PyCqBot: 法术大师潘森 (qq=270860654,群号=477949486) 使用指令: #卡组 希维尔
+[2022-05-06 21:52:48,542][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1742747754}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:53:03,119][command][INFO] PyCqBot: 法术大师潘森 (qq=270860654,群号=477949486) 使用指令: #卡组 岩雀
+[2022-05-06 21:53:04,375][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1903977123}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 21:57:41,915][command][INFO] PyCqBot: ^^ (qq=2496039846,群号=545327542) 使用指令: #卡组 亚索
+[2022-05-06 21:57:47,564][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:57:47,565][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 21:59:23,589][command][INFO] PyCqBot: 机器人夜龙 (qq=2396262865,群号=545327542) 使用指令: #卡组 伊莉丝
+[2022-05-06 21:59:29,196][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-06 21:59:29,199][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-06 22:00:59,036][command][INFO] PyCqBot: EQE亏内 (qq=2552739090,群号=750653891) 使用指令: #help
+[2022-05-06 22:01:00,069][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 653626537}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:01:42,931][command][INFO] PyCqBot: EQE亏内 (qq=2552739090,群号=750653891) 使用指令: #卡组 all
+[2022-05-06 22:01:43,726][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2096023645}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:02:59,056][command][INFO] PyCqBot: 群员的野爹 (qq=460705073,群号=585608546) 使用指令: #卡组 提莫
+[2022-05-06 22:02:59,846][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -664349094}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:03:53,044][command][INFO] PyCqBot: 时间如琥珀 (qq=2091463480,群号=477949486) 使用指令: #卡组  乌迪尔
+[2022-05-06 22:03:54,027][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2130381097}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:04:44,275][command][INFO] PyCqBot: 爱探险的朵拉 (qq=2359668366,群号=585608546) 使用指令: #卡组 石头人
+[2022-05-06 22:04:45,014][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1233463411}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:05:52,579][command][INFO] PyCqBot: EQE亏内 (qq=2552739090,群号=750653891) 使用指令: #卡组 巨魔蛮王
+[2022-05-06 22:05:53,571][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1190056021}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:06:07,037][command][INFO] PyCqBot: EQE亏内 (qq=2552739090,群号=750653891) 使用指令: #卡组 巨魔
+[2022-05-06 22:06:08,672][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -914629852}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:12:15,734][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=1060536929) 使用指令: #卡组 普朗克
+[2022-05-06 22:12:16,672][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -833593992}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:13:10,288][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=1060536929) 使用指令: #卡组 索拉卡
+[2022-05-06 22:13:11,304][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 703099007}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:23:47,482][command][INFO] PyCqBot: AHao (qq=476207918,群号=477949486) 使用指令: #卡组 潘森
+[2022-05-06 22:23:48,200][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1694720652}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:32:25,313][command][INFO] PyCqBot: GTOmute#7774(亚) (qq=562025749,群号=545327542) 使用指令: #卡组 劫
+[2022-05-06 22:32:26,186][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1955164695}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:35:30,781][command][INFO] PyCqBot: 天空 (qq=245013651,群号=477949486) 使用指令: #卡组 亚索
+[2022-05-06 22:35:31,520][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1869850201}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:37:34,064][command][INFO] PyCqBot: 淡然旋律(亚服) (qq=743078879,群号=477949486) 使用指令: #card 双重戒律
+[2022-05-06 22:37:37,463][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 433048922}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:38:30,074][command][INFO] PyCqBot: 淡然旋律(亚服) (qq=743078879,群号=477949486) 使用指令: #card 巨魔战歌
+[2022-05-06 22:38:32,769][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1855042603}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:39:58,741][command][INFO] PyCqBot: 淡然旋律(亚服) (qq=743078879,群号=477949486) 使用指令: #card 加里奥
+[2022-05-06 22:40:01,964][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1628888993}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:41:11,748][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #card 枪火谈判
+[2022-05-06 22:41:14,501][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1755353994}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:44:00,642][command][INFO] PyCqBot: 后生 (qq=2752618632,群号=750653891) 使用指令: #卡组 岩雀
+[2022-05-06 22:44:01,441][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1898913166}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:44:18,553][command][INFO] PyCqBot: 后生 (qq=2752618632,群号=750653891) 使用指令: #卡组 炸弹人
+[2022-05-06 22:44:19,317][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -400143308}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:47:12,159][command][INFO] PyCqBot: 淡然旋律(亚服) (qq=743078879,群号=477949486) 使用指令: #卡组 剑姬
+[2022-05-06 22:47:12,922][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 807517246}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:47:38,499][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #卡组 宝石
+[2022-05-06 22:47:39,248][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1056584716}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:48:24,644][command][INFO] PyCqBot: 淡然旋律(亚服) (qq=743078879,群号=477949486) 使用指令: #卡组 潘森
+[2022-05-06 22:48:25,356][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1184749373}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:48:38,811][command][INFO] PyCqBot: 撕票狂魔 (qq=421169669,群号=160740083) 使用指令: #排行榜 美服 Nintendo
+[2022-05-06 22:48:43,184][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1747249921}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:48:56,068][command][INFO] PyCqBot: 虚无 (qq=1843990869,群号=477949486) 使用指令: #卡组 维迦
+[2022-05-06 22:48:57,413][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1203844229}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:50:26,796][command][INFO] PyCqBot: C (qq=2421735806,群号=477949486) 使用指令: #卡组 艾克
+[2022-05-06 22:50:27,596][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -408219276}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:51:21,179][command][INFO] PyCqBot: 杉° (qq=490550327,群号=983596236) 使用指令: #卡组 佐伊
+[2022-05-06 22:51:21,911][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -701978219}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:52:40,586][command][INFO] PyCqBot: 杉° (qq=490550327,群号=983596236) 使用指令: #卡组 龙王
+[2022-05-06 22:52:41,295][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1505600230}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:52:46,853][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #解析 CIBQEAQDAMCAIAIDAIGCKKAFAIDBMIBNHI6AEAICAYTACAQDAUBQCAIDDEAQEBQ7AECQMAI
+[2022-05-06 22:52:47,841][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1624552854}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:53:35,293][command][INFO] PyCqBot: Zhuxianga竹香 (qq=2351595198,群号=477949486) 使用指令: #卡组 蔚
+[2022-05-06 22:53:36,003][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 509987115}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:54:05,651][command][INFO] PyCqBot: 疏梦青灯影 (qq=892042900,群号=983596236) 使用指令: #卡组 神皇
+[2022-05-06 22:54:06,533][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1212955702}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:54:21,896][command][INFO] PyCqBot: 疏梦青灯影 (qq=892042900,群号=983596236) 使用指令: #卡组 飞升
+[2022-05-06 22:54:22,645][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1342959311}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:54:28,956][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #卡组 战痕
+[2022-05-06 22:54:29,897][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1566948512}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:58:40,001][command][INFO] PyCqBot: zzzzzz (qq=1223134363,群号=545327542) 使用指令: #卡组 阿克尚
+[2022-05-06 22:58:40,823][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -670609361}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 22:58:59,385][command][INFO] PyCqBot: 海綿寶寶，肆意的笑 (qq=527111340,群号=983596236) 使用指令: #卡组 冰鸟
+[2022-05-06 22:59:00,158][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 319527802}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:01:27,278][command][INFO] PyCqBot: 想雪 (qq=864378754,群号=477949486) 使用指令: #卡组 剑姬
+[2022-05-06 23:01:28,067][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1485968327}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:03:10,344][command][INFO] PyCqBot: 美服 寒风的凛冽 (qq=1980967714,群号=545327542) 使用指令: #卡组 EZ
+[2022-05-06 23:03:11,165][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -365874515}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:04:19,462][command][INFO] PyCqBot: 凡人多烦事 (qq=2306039711,群号=545327542) 使用指令: #卡组 阿兹尔
+[2022-05-06 23:04:20,201][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -312674636}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:04:54,898][command][INFO] PyCqBot: 美服 safasfgg#pbe (qq=1461399178,群号=545327542) 使用指令: #卡组 阿克尚
+[2022-05-06 23:04:55,678][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 55744408}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:05:24,101][command][INFO] PyCqBot: TomatoFish(亚服#2430美服#6897) (qq=2258795976,群号=545327542) 使用指令: #卡组 小鱼
+[2022-05-06 23:05:25,151][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1813149175}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:06:23,150][command][INFO] PyCqBot: 美服 寒风的凛冽 (qq=1980967714,群号=545327542) 使用指令: #卡组 奎因
+[2022-05-06 23:06:23,913][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 447618804}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:06:43,802][command][INFO] PyCqBot: 想雪 (qq=864378754,群号=477949486) 使用指令: #卡组 炸弹人
+[2022-05-06 23:06:44,568][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1581550667}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:08:07,286][command][INFO] PyCqBot: 海綿寶寶，肆意的笑 (qq=527111340,群号=983596236) 使用指令: #卡组 ez
+[2022-05-06 23:08:08,057][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1667330037}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:10:52,136][command][INFO] PyCqBot: 想雪 (qq=864378754,群号=477949486) 使用指令: #卡组 索拉卡
+[2022-05-06 23:10:55,640][command][INFO] PyCqBot: 美服 safasfgg#pbe (qq=1461399178,群号=545327542) 使用指令: #卡组 维嘉
+[2022-05-06 23:10:57,921][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1074336807}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:10:58,079][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 499374829}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:11:10,572][command][INFO] PyCqBot: 美服 safasfgg#pbe (qq=1461399178,群号=545327542) 使用指令: #卡组 小法
+[2022-05-06 23:11:11,939][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -204620863}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:13:06,695][command][INFO] PyCqBot: 第五人脉 (qq=3506037638,群号=545327542) 使用指令: #卡组 潘森
+[2022-05-06 23:13:07,473][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -743047477}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:14:22,660][command][INFO] PyCqBot: 花火 (qq=787971792,群号=585608546) 使用指令: #排行榜 美服
+[2022-05-06 23:14:27,129][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 280976466}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:14:30,599][command][INFO] PyCqBot: 钱钱 (qq=2953790273,群号=477949486) 使用指令: #卡组 乌迪尔
+[2022-05-06 23:14:31,434][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2031309264}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:14:56,925][command][INFO] PyCqBot: Zhuxianga竹香 (qq=2351595198,群号=477949486) 使用指令: #卡组 石头人
+[2022-05-06 23:14:58,228][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1632928567}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:15:13,948][command][INFO] PyCqBot: 花火 (qq=787971792,群号=585608546) 使用指令: #排行榜 亚服
+[2022-05-06 23:15:18,974][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -21938818}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:15:21,544][command][INFO] PyCqBot: Zhuxianga竹香 (qq=2351595198,群号=477949486) 使用指令: #卡组 蕾欧娜
+[2022-05-06 23:15:22,318][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 117362379}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:15:29,452][command][INFO] PyCqBot: Limerence (qq=3264812699,群号=477949486) 使用指令: #卡组 布隆 吸血鬼
+[2022-05-06 23:15:30,211][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -386879513}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:16:11,494][command][INFO] PyCqBot: 查无此人 (qq=1421878212,群号=585608546) 使用指令: #卡组 锐雯
+[2022-05-06 23:16:12,234][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 420024441}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:16:30,042][command][INFO] PyCqBot: Zhuxianga竹香 (qq=2351595198,群号=477949486) 使用指令: #卡组 狗头
+[2022-05-06 23:16:30,773][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1572432263}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:17:15,588][command][INFO] PyCqBot: 我是一只猫 (qq=210071930,群号=545327542) 使用指令: #卡组 慎
+[2022-05-06 23:17:16,369][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1035706343}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:17:42,667][command][INFO] PyCqBot: 钱钱 (qq=2953790273,群号=477949486) 使用指令: #卡组 德玛
+[2022-05-06 23:17:43,419][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1279850325}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:18:02,653][command][INFO] PyCqBot: 钱钱 (qq=2953790273,群号=477949486) 使用指令: #卡组 盖伦
+[2022-05-06 23:18:03,435][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1523887518}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:19:48,702][command][INFO] PyCqBot: 凉风 (qq=2575538027,群号=585608546) 使用指令: #卡组 女枪
+[2022-05-06 23:19:49,476][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2124635525}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:21:01,281][command][INFO] PyCqBot: 凉风 (qq=2575538027,群号=585608546) 使用指令: #卡组 巨魔
+[2022-05-06 23:21:02,288][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1867694935}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:22:15,489][command][INFO] PyCqBot: Brave Shine (qq=2386095401,群号=477949486) 使用指令: #卡组 金克丝
+[2022-05-06 23:22:16,659][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 610652451}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:27:33,238][command][INFO] PyCqBot: 海綿寶寶，肆意的笑 (qq=527111340,群号=983596236) 使用指令: #卡组 拉克丝
+[2022-05-06 23:27:33,989][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1827013759}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:28:23,824][command][INFO] PyCqBot: 汐衍於 (qq=905865842,群号=585608546) 使用指令: #卡组 龙王
+[2022-05-06 23:28:24,648][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -804065210}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:29:32,560][command][INFO] PyCqBot: 不懂街头文化的土狗 (qq=3283319271,群号=585608546) 使用指令: #卡组 派克
+[2022-05-06 23:29:33,321][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -942520011}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:31:37,437][command][INFO] PyCqBot: 指令 #佛耶戈 不存在...
+[2022-05-06 23:31:37,842][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 702294041}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:31:47,941][command][INFO] PyCqBot: 不懂街头文化的土狗 (qq=3283319271,群号=585608546) 使用指令: #卡组 佛耶戈
+[2022-05-06 23:31:48,705][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1061188308}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:39:53,001][command][INFO] PyCqBot: winer (qq=2655595237,群号=477949486) 使用指令: #卡组 鸟枪
+[2022-05-06 23:39:53,734][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -982363638}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:41:00,318][command][INFO] PyCqBot: 钰 (qq=2897949013,群号=545327542) 使用指令: #卡组 月男
+[2022-05-06 23:41:01,133][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1684427755}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:41:58,650][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=585608546) 使用指令: #代码 CMBQCAIFAEBQIBZWNV4QGBAFGU3DOAYBAQCRAAYBAUPCQMIEAQDTWSCMM4BACBAHKEBACBIUDE
+[2022-05-06 23:41:59,608][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1792826798}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:42:00,703][command][INFO] PyCqBot: 汐衍於 (qq=905865842,群号=585608546) 使用指令: #卡组 普朗克
+[2022-05-06 23:42:01,502][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2099045599}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:42:27,891][command][INFO] PyCqBot: 钰 (qq=2897949013,群号=545327542) 使用指令: #解析 CQBQCAQGFYBAGCJD3EAQMBIKCQQDDJQBW4A5SAICAEBQSMYEAUFBGKERAGYQCAQBAMEVKAQFBLIQDUQB
+[2022-05-06 23:42:33,873][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 460092611}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:43:15,750][command][INFO] PyCqBot: pov (qq=728347734,群号=750653891) 使用指令: #卡组 佛耶戈
+[2022-05-06 23:43:16,509][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -691059637}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:43:45,208][command][INFO] PyCqBot: Kira Kira (qq=2629060408,群号=750653891) 使用指令: #卡组 阿狸
+[2022-05-06 23:43:46,186][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1219219944}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:44:21,640][command][INFO] PyCqBot: 我是一只猫 (qq=210071930,群号=545327542) 使用指令: #卡组 乌迪尔
+[2022-05-06 23:44:22,451][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1686236104}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:45:51,242][command][INFO] PyCqBot: 南烬潇湘 (qq=1207644717,群号=750653891) 使用指令: #卡组 艾克
+[2022-05-06 23:45:51,982][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1499090748}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:45:54,162][command][INFO] PyCqBot: 我是一只猫 (qq=210071930,群号=545327542) 使用指令: #卡组 拉克丝
+[2022-05-06 23:45:54,898][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1492900109}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:46:47,786][command][INFO] PyCqBot: Kira Kira (qq=2629060408,群号=750653891) 使用指令: #卡组 剑姬
+[2022-05-06 23:46:51,686][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1092459971}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:46:52,051][command][INFO] PyCqBot: pov (qq=728347734,群号=750653891) 使用指令: #卡组 ez
+[2022-05-06 23:46:53,643][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1693140530}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:47:08,432][command][INFO] PyCqBot: Kira Kira (qq=2629060408,群号=750653891) 使用指令: #卡组 鳄鱼
+[2022-05-06 23:47:09,295][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1964693730}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:47:17,886][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -749293283}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:49:00,061][command][INFO] PyCqBot: 钱钱 (qq=2953790273,群号=477949486) 使用指令: #卡组 卡牌
+[2022-05-06 23:49:00,795][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 459834168}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:49:13,357][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2107518334}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:49:58,252][command][INFO] PyCqBot: 我是一只猫 (qq=210071930,群号=545327542) 使用指令: #code CIBACAICB4BQICIIBUHAMAICAICQCBACCQAQKAQHAIAQECAMAMBQEBIJCQCAGCJDKRLGAAQCAEBC4MICAMERKMY
+[2022-05-06 23:49:59,127][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1516352077}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:51:50,148][command][INFO] PyCqBot: 暗夜猎手 (qq=2898003533,群号=750653891) 使用指令: #卡组 伊利丝
+[2022-05-06 23:51:51,107][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -91237487}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:52:00,844][command][INFO] PyCqBot: 暗夜猎手 (qq=2898003533,群号=750653891) 使用指令: #卡组 蜘蛛
+[2022-05-06 23:52:01,645][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 490208918}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:52:30,697][command][INFO] PyCqBot: 四个胳膊以上的都爱 (qq=1416274436,群号=1060536929) 使用指令: #卡组 潘森
+[2022-05-06 23:52:31,639][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 736924336}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:52:33,552][command][INFO] PyCqBot: 不加糖谢谢 (qq=3302854579,群号=477949486) 使用指令: #卡组 巨魔
+[2022-05-06 23:52:34,308][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 936357071}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:52:53,619][command][INFO] PyCqBot: 亚服 fidodo (qq=522683382,群号=477949486) 使用指令: #卡组 泰坦
+[2022-05-06 23:52:56,798][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -526206552}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:54:28,899][command][INFO] PyCqBot: 美服 丿Specter#7806 (qq=724422066,群号=477949486) 使用指令: #卡组 杰斯
+[2022-05-06 23:54:29,623][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1384561617}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:54:54,122][command][INFO] PyCqBot: 放屁磨牙吧唧嘴 (qq=174023871,群号=477949486) 使用指令: #卡组 赛恩
+[2022-05-06 23:54:54,870][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -857592206}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:57:27,740][command][INFO] PyCqBot: 茶茶（ChaxLove＃7470） (qq=2074472309,群号=160740083) 使用指令: #排行榜 亚服
+[2022-05-06 23:57:32,154][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2120157671}, 'retcode': 0, 'status': 'ok'}
+[2022-05-06 23:59:21,067][command][INFO] PyCqBot: 小乔γ (qq=3353440100,群号=477949486) 使用指令: #卡组 杰斯
+[2022-05-06 23:59:22,201][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 556451750}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:00:40,099][command][INFO] PyCqBot: 云 (qq=1447308509,群号=545327542) 使用指令: #170000
+[2022-05-07 00:00:40,411][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -350375613}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:02:13,932][command][INFO] PyCqBot: Mrl#4960（美服） (qq=1265054965,群号=750653891) 使用指令: #卡组 杰斯
+[2022-05-07 00:02:14,925][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 183977957}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:03:06,532][command][INFO] PyCqBot: 亚服 LOR了恂#6260 (qq=335813713,群号=545327542) 使用指令: #排行榜 亚服 LOR了恂
+[2022-05-07 00:03:10,851][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1411691504}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:03:38,218][command][INFO] PyCqBot: 云 (qq=1447308509,群号=545327542) 使用指令: #排行榜 美服 欢笑的小老弟
+[2022-05-07 00:03:44,062][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1537464444}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:03:56,775][command][INFO] PyCqBot: 云 (qq=1447308509,群号=545327542) 使用指令: #排行榜 美服 口笑的小老弟
+[2022-05-07 00:04:01,212][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -734604533}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:04:25,817][command][INFO] PyCqBot: 日服 乐黄郡 (qq=664633946,群号=545327542) 使用指令: #卡组 月男
+[2022-05-07 00:04:26,597][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1888390073}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:04:46,416][command][INFO] PyCqBot: 撕票狂魔 (qq=421169669,群号=160740083) 使用指令: #排行榜 美服 Nintendo
+[2022-05-07 00:04:51,093][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2016896929}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:05:18,954][command][INFO] PyCqBot: white (qq=2280468649,群号=545327542) 使用指令: #卡组 泰坦
+[2022-05-07 00:05:21,850][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -14974776}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:05:33,455][command][INFO] PyCqBot: 亚服 LOR了恂#6260 (qq=335813713,群号=545327542) 使用指令: #排行榜 美服 欢笑的小表弟
+[2022-05-07 00:05:37,625][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1712509298}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:05:38,720][command][INFO] PyCqBot: 美服bymbym#9057 (qq=1445771438,群号=750653891) 使用指令: #卡组表现
+[2022-05-07 00:05:39,956][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -453433655}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:06:46,730][command][INFO] PyCqBot: Aurora. (qq=2811165074,群号=585608546) 使用指令: #卡组 兰博
+[2022-05-07 00:06:47,550][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -426779099}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:06:51,328][command][INFO] PyCqBot: 四个胳膊以上的都爱 (qq=1416274436,群号=1060536929) 使用指令: #卡组 岩雀
+[2022-05-07 00:06:52,268][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1584515432}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:07:17,688][command][INFO] PyCqBot: Aurora. (qq=2811165074,群号=585608546) 使用指令: #卡组 德莱文
+[2022-05-07 00:07:18,476][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 142720777}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:08:43,019][command][INFO] PyCqBot: 四个胳膊以上的都爱 (qq=1416274436,群号=1060536929) 使用指令: #卡组 心灵相通
+[2022-05-07 00:08:43,977][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 673847880}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:10:22,343][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 吸血鬼
+[2022-05-07 00:10:23,102][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1261293815}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:13:40,186][command][INFO] PyCqBot: 美服 丿Specter#7806 (qq=724422066,群号=477949486) 使用指令: #code CQCACAIEGQBACBIBFABAKBILB4CAKBAWDANR6BABAECBWAIFBKMACAIFAUBQEAIFGE2QGAICAQEACAYEBMAQKBAV
+
+[2022-05-07 00:13:40,501][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1381658314}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:13:46,833][command][INFO] PyCqBot: 美服 丿Specter#7806 (qq=724422066,群号=477949486) 使用指令: #code CQCACAIEGQBACBIBFABAKBILB4CAKBAWDANR6BABAECBWAIFBKMACAIFAUBQEAIFGE2QGAICAQEACAYEBMAQKBAV
+[2022-05-07 00:13:47,732][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1153840131}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:15:22,861][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -633005683}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:18:17,372][command][INFO] PyCqBot: 豆腐脑真好吃 (qq=179442615,群号=160740083) 使用指令: #排行榜 美服
+[2022-05-07 00:18:21,951][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 754428775}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:19:51,629][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #卡组 斯维因
+[2022-05-07 00:19:52,287][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1844413711}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:19:59,637][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #卡组 黑默丁格
+[2022-05-07 00:20:00,934][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1209622270}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:27:44,536][command][INFO] PyCqBot: SHANGLIU #9605 (美服) (qq=1410585398,群号=477949486) 使用指令: #卡组 艾希
+[2022-05-07 00:27:45,287][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1766115822}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:28:06,397][command][INFO] PyCqBot: SHANGLIU #9605 (美服) (qq=1410585398,群号=477949486) 使用指令: #卡组 卡特
+[2022-05-07 00:28:07,104][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2025150270}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:36:04,815][command][INFO] PyCqBot: 不破不立 (qq=2581836192,群号=585608546) 使用指令: #卡组 龙王
+[2022-05-07 00:36:06,070][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2014114731}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 00:36:12,557][command][INFO] PyCqBot: 不破不立 (qq=2581836192,群号=585608546) 使用指令: #卡组 佐伊
+[2022-05-07 00:36:13,362][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1778216313}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:00:56,541][command][INFO] PyCqBot: Hazel (qq=1390503748,群号=585608546) 使用指令: #卡组 佛爷
+[2022-05-07 01:00:57,338][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1172503378}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:01:23,335][command][INFO] PyCqBot: Hazel (qq=1390503748,群号=585608546) 使用指令: #卡组 飞升
+[2022-05-07 01:01:24,061][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1571105195}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:22:27,701][command][INFO] PyCqBot: 淡然旋律(亚服) (qq=743078879,群号=477949486) 使用指令: #卡组 炸弹人
+[2022-05-07 01:22:28,480][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1772757047}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:23:04,113][command][INFO] PyCqBot: 淡然旋律(亚服) (qq=743078879,群号=477949486) 使用指令: #code CQBQCBIHBMBAKCSJUMAQKBAHBUSSMSKMAMAQKCQ3AECQOBYFAQDRYO2ZNWFACAICAUFANJQB
+[2022-05-07 01:23:05,034][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2019278565}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:23:39,457][command][INFO] PyCqBot: 墙角 美服QJjio#9180 (qq=475270972,群号=545327542) 使用指令: #卡组 女枪
+[2022-05-07 01:23:40,327][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -68515732}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:25:20,797][command][INFO] PyCqBot: 吼吼吼\^O^/ (qq=2425093995,群号=160740083) 使用指令: #排位奖励
+[2022-05-07 01:25:21,988][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 731541374}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:27:59,275][command][INFO] PyCqBot: 茶茶（ChaxLove＃7470） (qq=2074472309,群号=160740083) 使用指令: #排行榜 亚服
+[2022-05-07 01:28:03,815][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -870169991}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:32:27,168][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 猪妹
+[2022-05-07 01:32:27,929][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -332779233}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:36:54,479][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -478998770}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 01:45:05,615][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=1060536929) 使用指令: #卡组 雪怪
+[2022-05-07 01:45:06,695][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -419833131}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:13:00,908][command][INFO] PyCqBot: 梨花春雨不及她#7246 (qq=2320815105,群号=477949486) 使用指令: #卡组 特朗德尔
+[2022-05-07 02:13:01,604][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1229778100}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:17:20,696][command][INFO] PyCqBot: 玻璃（亚 GentleL#4471） (qq=1660974361,群号=477949486) 使用指令: #卡组 蛮王
+[2022-05-07 02:17:21,383][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -305666580}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:25:19,155][command][INFO] PyCqBot: 梨花春雨不及她#7246（美服） (qq=2320815105,群号=477949486) 使用指令: #卡组 吸血鬼
+[2022-05-07 02:25:19,862][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1021503112}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:25:47,857][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 226324002}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:26:26,965][command][INFO] PyCqBot: 亚服 钰钰子#阿巴阿巴 (qq=2412634823,群号=477949486) 使用指令: #解析 CEAQEAIFGAYQKAICAUAQCAYFCAAQKBILAMCAKEBWG4DQCBIBAMHRSHBJGQBQCBAFGUAQKBIDAYAQKIBBEIWC4LY
+[2022-05-07 02:26:27,919][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1112775221}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:27:08,662][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1871924009}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:27:27,003][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2018767452}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:27:48,527][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1772252296}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:28:47,355][command][INFO] PyCqBot: 遥望 (qq=2275334670,群号=477949486) 使用指令: #卡组 佛耶戈
+[2022-05-07 02:28:48,054][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1006984869}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:56:13,267][command][INFO] PyCqBot: 指令 #胜率 不存在...
+[2022-05-07 02:56:13,661][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 952365078}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:57:08,918][command][INFO] PyCqBot: 慕涩丶 (qq=962566395,群号=545327542) 使用指令: #卡组 ez
+[2022-05-07 02:57:09,695][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -691171014}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 02:59:34,923][command][INFO] PyCqBot: 亚服 钰钰子#阿巴阿巴 (qq=2412634823,群号=477949486) 使用指令: #解析 CQCQCAYCAUAQIAQPAECQUOQDAUBAIBY2AYAQECALBQWDCMQBAECAPCQBAIAQGAQUAECQEFI
+[2022-05-07 02:59:35,855][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1377972808}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:04:21,075][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #解析 CMCQCAYEBUBACBAZFYBAIBAHBQBAKBACBQCQIBYNFRBE7AQBAEAQIBABAIAQGBAZAECAPAAB
+[2022-05-07 03:04:22,009][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 772351419}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:05:55,695][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #card 压力测试
+[2022-05-07 03:05:58,964][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1187232738}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:06:09,627][command][INFO] PyCqBot: BYM (qq=1445771438,群号=477949486) 使用指令: #卡组 杰斯
+[2022-05-07 03:06:10,305][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 540349860}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:06:44,219][command][INFO] PyCqBot: BYM (qq=1445771438,群号=477949486) 使用指令: #code CQCACAIEGQBACBIBFABAKBILB4CAKBAWDANR6BABAECBWAIFBKMACAIFAUBQEAIFGE2QGAICAQEACAYEBMAQKBAV
+[2022-05-07 03:06:45,070][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -204112783}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:07:24,810][MainThread][INFO] PyCqBot: 接收到 at bot 亚服 钰钰子#阿巴阿巴 (qq=2412634823,群号=477949486) 
+[2022-05-07 03:07:24,810][MainThread][INFO] PyCqBot: 接收到 at bot 亚服 钰钰子#阿巴阿巴 (qq=2412634823,群号=477949486) 
+[2022-05-07 03:12:32,972][command][INFO] PyCqBot: BYM (qq=1445771438,群号=477949486) 使用指令: #卡组 盖伦
+[2022-05-07 03:12:33,728][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1266793179}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:17:45,737][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #card 泽拉斯
+[2022-05-07 03:17:46,445][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -176500129}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:17:53,875][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #cc
+[2022-05-07 03:17:54,136][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1912960701}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 03:32:42,473][command][INFO] PyCqBot: 吃人的斯兰里卡 (qq=3013288546,群号=477949486) 使用指令: #卡组 吸血鬼
+[2022-05-07 03:32:43,269][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 683861840}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 04:07:36,947][command][INFO] PyCqBot: 纤 (qq=1335198438,群号=585608546) 使用指令: #排行榜 美服
+[2022-05-07 04:07:41,399][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1859102865}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 04:07:49,030][command][INFO] PyCqBot: 亚洲 11 (qq=1335198438,群号=545327542) 使用指令: #卡组 all
+[2022-05-07 04:07:49,836][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1950674473}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 04:09:23,876][command][INFO] PyCqBot: 纤 (qq=1335198438,群号=585608546) 使用指令: #排行榜 欧服
+[2022-05-07 04:09:27,767][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1988655722}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 04:26:04,685][command][INFO] PyCqBot: 水下月 (qq=1036904641,群号=983596236) 使用指令: #卡组 佛耶戈
+[2022-05-07 04:26:05,486][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -356170971}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 04:31:25,530][command][INFO] PyCqBot: 亚服 不息之犬#9191 (qq=2918158788,群号=545327542) 使用指令: #卡组 ez 大头
+[2022-05-07 04:31:26,326][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -35601671}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 04:31:37,223][command][INFO] PyCqBot: 美 attacker003＃1758 (qq=3113542561,群号=174504130) 使用指令: #code CQCQCAIEEQAQEAQFAECQUOQCAUBAOFIEAEBAWDBRGIBQEAICFQ4QEAQCAMFAEAYCAUKACAICAIEA
+[2022-05-07 04:31:38,184][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 678137008}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 04:57:19,964][command][INFO] PyCqBot: 亚洲 11 (qq=1335198438,群号=545327542) 使用指令: #卡组 11
+[2022-05-07 04:57:20,944][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1539502347}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 05:03:03,043][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=585608546) 使用指令: #代码 CMBQEAIFFAYQGBAFGU3DOCAEA4ATMO2MKFTW26IAAEAQCBIZ
+
+
+[2022-05-07 05:03:04,061][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -923952285}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 05:03:50,216][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=585608546) 使用指令: #代码 CMBQEAIFFAYQGBAFGU3DOBQEA
+4ATMO2MM54QEAIBAUAQEBAHKF WQCAIBAUMQ
+[2022-05-07 05:03:50,548][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 652474959}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 05:04:05,698][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=585608546) 使用指令: #代码 CMBQEAIFFAYQGBAFGU3DOBQEA4ATMO2MM54QEAIBAUAQEBAHKF WQCAIBAUMQ
+[2022-05-07 05:04:06,594][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -813670534}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 05:14:25,778][command][INFO] PyCqBot: 指令 # help 不存在...
+[2022-05-07 05:14:26,120][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1664776691}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 05:14:33,109][command][INFO] PyCqBot: . (qq=2314465288,群号=477949486) 使用指令: #help
+[2022-05-07 05:14:33,960][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1962590338}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 05:15:01,310][command][INFO] PyCqBot: . (qq=2314465288,群号=477949486) 使用指令: #卡组 刀妹
+[2022-05-07 05:15:02,187][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1695243858}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 06:14:32,851][command][INFO] PyCqBot: 超强砍砍-欧服-(Kan#0608 (qq=1428663716,群号=545327542) 使用指令: #code CIDACAQAAYAQGAAOAIBAMFR6AICAAAQHAICQACQMAQAQABQJDUZQCAICAABACAQCAADQU
+[2022-05-07 06:14:33,952][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -686818547}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 06:16:21,899][command][INFO] PyCqBot: 少女与派克的奇幻漂流 (qq=1479262083,群号=477949486) 使用指令: #原画 涌泉之恨
+[2022-05-07 06:16:22,695][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1718972280}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 06:16:33,026][command][INFO] PyCqBot: 少女与派克的奇幻漂流 (qq=1479262083,群号=477949486) 使用指令: #原画 汪洋死域
+[2022-05-07 06:16:35,077][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -31400588}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:11:35,618][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 拉克丝
+[2022-05-07 07:11:36,335][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2137939511}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:11:37,487][command][INFO] PyCqBot: 四个胳膊以上的都爱 (qq=1416274436,群号=1060536929) 使用指令: #卡组 岩雀
+[2022-05-07 07:11:38,533][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1868428805}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:43:15,737][command][INFO] PyCqBot: 悲回風#5443(老凡尔塞人) (qq=1465850662,群号=1060536929) 使用指令: #卡组 人马
+[2022-05-07 07:43:16,656][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 135267284}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:44:10,626][command][INFO] PyCqBot: THE LICH KING (qq=1054637093,群号=909862218) 使用指令: #卡组 蜘蛛
+[2022-05-07 07:44:11,590][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -292544080}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:46:47,301][command][INFO] PyCqBot: 群沙包，亚服练牌可以找我ID：Ender#4348 (qq=3251708475,群号=477949486) 使用指令: #卡组 德莱文
+[2022-05-07 07:46:47,999][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1056194756}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:50:30,043][command][INFO] PyCqBot: 槐诗子丶 (qq=1784271042,群号=909862218) 使用指令: #卡组 阿克尚
+[2022-05-07 07:50:30,965][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 153619639}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:51:41,072][command][INFO] PyCqBot: 美服 jinntsu#9309 (qq=2638277583,群号=174504130) 使用指令: #卡组 猎人
+[2022-05-07 07:51:42,055][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -808214089}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:51:59,475][command][INFO] PyCqBot: 转不成专业不改名 (qq=953661573,群号=477949486) 使用指令: #卡组 艾希
+[2022-05-07 07:52:00,204][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 788913680}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:52:48,305][command][INFO] PyCqBot: 涐爱沵对我的敷衍 (qq=903506814,群号=477949486) 使用指令: #卡组 龙女
+[2022-05-07 07:52:49,048][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -966362331}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:56:51,696][command][INFO] PyCqBot: NPC (qq=1814459203,群号=477949486) 使用指令: #卡组 魄罗
+[2022-05-07 07:56:52,645][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 677911049}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:59:16,652][command][INFO] PyCqBot: 指令 #卡组锐雯 不存在...
+[2022-05-07 07:59:16,903][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1357398293}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:59:36,806][command][INFO] PyCqBot: 指令 #英雄联盟的脑子 不存在...
+[2022-05-07 07:59:37,108][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1092214727}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 07:59:47,323][command][INFO] PyCqBot: 指令 #英雄联盟设计师的脑子 不存在...
+[2022-05-07 07:59:47,595][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -545437084}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:00:04,687][command][INFO] PyCqBot: 追求完喵#520 (qq=1767545554,群号=477949486) 使用指令: #卡组 锐雯
+[2022-05-07 08:00:05,530][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1580452135}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:01:30,666][command][INFO] PyCqBot: 行走在 危↑险边缘肆意的怪盗 (qq=942016743,群号=174504130) 使用指令: #卡组 快攻瞎
+[2022-05-07 08:01:31,628][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 69933930}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:04:10,086][command][INFO] PyCqBot: Dr.Moh (qq=2685841290,群号=174504130) 使用指令: #卡组 快攻
+[2022-05-07 08:04:11,092][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -313999777}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:10:07,387][command][INFO] PyCqBot: 指令 #代碼 CICACBAGAMAQKBQBAIBAMFR4AICAECAJAUAQCAQMAEBQEFABAQBAIAQFAIDRKAYCAYNCMPQDAEAQEMICAQBAKDADAIDAELJT 不存在...
+[2022-05-07 08:10:08,439][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 399315058}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:10:16,226][command][INFO] PyCqBot: Linlog#1314 (qq=2035533082,群号=731041437) 使用指令: #代码 CICACBAGAMAQKBQBAIBAMFR4AICAECAJAUAQCAQMAEBQEFABAQBAIAQFAIDRKAYCAYNCMPQDAEAQEMICAQBAKDADAIDAELJT
+[2022-05-07 08:10:17,033][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -104631970}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:19:31,229][command][INFO] PyCqBot: 指令 #卡组 运行时错误... Error: list index out of range
+[2022-05-07 08:19:31,229][command][ERROR] PyCqBot: list index out of range
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\site-packages\pycqBot\cqApi.py", line 731, in run_command
+    self._commandList[command]["function"](commandData, cqCode_list, message, from_id)
+  File "main.py", line 317, in deck
+    print(commandData[0] == "all" or commandData[0] == "所有" or commandData[0] == "全")
+IndexError: list index out of range
+[2022-05-07 08:19:31,467][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1834567709}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:19:42,143][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1964940006}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:30:42,851][command][INFO] PyCqBot: 指令 #echo
+### 古夫德
+# 职业：德鲁伊
+# 模式：标准模式
+# 多头蛇年
+#
+# 1x (2) 末日预言者
+# 1x (2) 火山术
+# 1x (2) 秘法学家
+# 1x (2) 自爆绵羊
+# 1x (2) 风雪增幅体
+# 1x (3) 奥术智慧
+# 1x (3) 宝藏守卫
+# 1x (3) 寒冰护体
+# 1x (3) 布莱恩·铜须
+# 1x (3) 织霜地下城历险家
+# 1x (3) 蛇发女妖佐拉
+# 1x (3) 锈烂蝰蛇
+# 1x (4) 剑圣奥卡尼
+# 1x (4) 学校教师
+# 1x (4) 深水唤醒师
+# 1x (4) 火热促销
+# 1x (4) 鲁莽的学徒
+# 1x (5) 奥术溢爆
+# 1x (5) 暗影猎手沃金
+# 1x (5) 艾萨拉女王
+# 1x (6) 暴风雪
+# 1x (6) 灰贤鹦鹉
+# 1x (6) 野蛮的女巫
+# 1x (6) 雷诺·杰克逊
+# 1x (7) 烈焰风暴
+# 1x (7) 群体变形
+# 1x (7) 魔导师晨拥
+# 1x (9) 卡雷苟斯
+# 1x (9) 大法师的符文
+# 1x (10) 龙火护符
+# 
+AAECAf0EHuDlA9LsA9PsA6f3A9D5A5KBBJOBBJSBBKCKBJiNBKGSBPyeBP6eBOifBMagBNWgBPuiBPqsBJmwBMeyBIe3BJa3BMu3BNu5BO/TBPHTBJbUBJjUBJrUBJ3UBAAA
+# 
+# 想要使用这副套牌，请先复制到剪贴板，然后在游戏中点击“新套牌”进行粘贴。 不存在...
+[2022-05-07 08:30:43,622][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 54976371}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:38:18,591][command][INFO] PyCqBot: 亚服 bilibili这个不是派克 (qq=1937778018,群号=545327542) 使用指令: #解析 CMBACBIGAQFAIBYND4WDAQSJLVUHRAQBAIAQKBQBAICAOAMBAEAQCBAHEI
+[2022-05-07 08:38:19,645][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2034074150}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:39:39,857][command][INFO] PyCqBot: NPC (qq=1814459203,群号=477949486) 使用指令: #卡组 潘森
+[2022-05-07 08:39:41,337][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 61010407}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:40:14,948][command][INFO] PyCqBot: NPC (qq=1814459203,群号=477949486) 使用指令: #卡组 纳尔
+[2022-05-07 08:40:16,448][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -307457845}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:40:19,977][command][INFO] PyCqBot: 爆爆 (qq=459740831,群号=750653891) 使用指令: #卡组
+[2022-05-07 08:40:19,977][command][INFO] PyCqBot: 指令 #卡组 运行时错误... Error: list index out of range
+[2022-05-07 08:40:19,977][command][ERROR] PyCqBot: list index out of range
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\site-packages\pycqBot\cqApi.py", line 731, in run_command
+    self._commandList[command]["function"](commandData, cqCode_list, message, from_id)
+  File "main.py", line 317, in deck
+    print(commandData[0] == "all" or commandData[0] == "所有" or commandData[0] == "全")
+IndexError: list index out of range
+[2022-05-07 08:40:20,286][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 185802113}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:40:29,013][command][INFO] PyCqBot: 指令 #cardlist 不存在...
+[2022-05-07 08:40:29,287][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 483632370}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:40:37,260][command][INFO] PyCqBot: 爆爆 (qq=459740831,群号=750653891) 使用指令: #help
+[2022-05-07 08:40:38,091][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -220346914}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:41:10,277][command][INFO] PyCqBot: 爆爆 (qq=459740831,群号=750653891) 使用指令: #卡组 all
+[2022-05-07 08:41:11,044][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2101923503}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:41:29,409][command][INFO] PyCqBot: THE LICH KING (qq=1054637093,群号=909862218) 使用指令: #卡组 小法
+[2022-05-07 08:41:30,391][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 752801606}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:42:05,133][command][INFO] PyCqBot: 「Prover」 (qq=204534706,群号=477949486) 使用指令: #卡组 赛娜
+[2022-05-07 08:42:05,888][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 80688638}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:42:51,932][command][INFO] PyCqBot: black horse (qq=972636200,群号=979057393) 使用指令: #卡组 佐伊
+[2022-05-07 08:42:52,805][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1607643363}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:43:17,488][command][INFO] PyCqBot: 追求完喵#520 (qq=1767545554,群号=477949486) 使用指令: #卡组 塞纳
+[2022-05-07 08:43:18,156][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2055096643}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:44:43,476][command][INFO] PyCqBot: 追求完喵#520 (qq=1767545554,群号=477949486) 使用指令: #卡组 小法
+[2022-05-07 08:44:44,437][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1034699189}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:44:49,322][command][INFO] PyCqBot: 卵宝 (qq=459740831,群号=979057393) 使用指令: #卡组 佐伊 厄斐琉斯
+[2022-05-07 08:44:50,386][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1229908522}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:45:05,272][command][INFO] PyCqBot: 我的喵呜超可爱 (qq=1172563058,群号=1060536929) 使用指令: #170000
+[2022-05-07 08:45:05,313][command][INFO] PyCqBot: 卵宝 (qq=459740831,群号=979057393) 使用指令: #卡组 佐伊 厄斐琉斯 维克托
+[2022-05-07 08:45:05,574][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 952449972}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:45:06,293][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1488942330}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:47:03,420][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1304868154}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:47:51,030][command][INFO] PyCqBot: 「Prover」 (qq=204534706,群号=477949486) 使用指令: #卡组 悠米
+[2022-05-07 08:47:51,736][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -893840936}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:47:52,925][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 616001780}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:48:18,919][command][INFO] PyCqBot: Flince (qq=3477164609,群号=545327542) 使用指令: #卡组 伊莉丝
+[2022-05-07 08:48:19,687][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2022103475}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:50:06,374][command][INFO] PyCqBot: 指令 #杰斯 不存在...
+[2022-05-07 08:50:06,609][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -841689663}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:50:07,817][command][INFO] PyCqBot: 凛冰仲裁官 (qq=3106195942,群号=545327542) 使用指令: #卡组 狗头鳄鱼
+[2022-05-07 08:50:08,789][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1769424737}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:50:15,863][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 601535725}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:50:45,015][command][INFO] PyCqBot: 凛冰仲裁官 (qq=3106195942,群号=545327542) 使用指令: #卡组 鳄鱼
+[2022-05-07 08:50:45,703][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2146114988}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:51:17,784][command][INFO] PyCqBot: 凛冰仲裁官 (qq=3106195942,群号=545327542) 使用指令: #卡组 吉格斯
+[2022-05-07 08:51:18,543][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1847231352}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:52:20,677][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1000171030}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:56:07,476][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #卡组 维克托
+[2022-05-07 08:56:08,275][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2146490296}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:56:44,056][command][INFO] PyCqBot: 钓 (qq=478341560,群号=477949486) 使用指令: #卡组 杰斯
+[2022-05-07 08:56:44,911][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1740047681}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 08:56:56,250][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1886895156}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:01:27,383][command][INFO] PyCqBot: 美服 safasfgg#pbe (qq=1461399178,群号=545327542) 使用指令: #卡组 提莫
+[2022-05-07 09:01:28,082][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1886156320}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:03:10,189][command][INFO] PyCqBot: 亚服 不息之犬#9191 (qq=2918158788,群号=545327542) 使用指令: #卡组 ez 提莫
+[2022-05-07 09:03:10,978][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1996599865}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:03:45,722][command][INFO] PyCqBot: 吾 (qq=2366843171,群号=477949486) 使用指令: #卡组 飞升
+[2022-05-07 09:03:46,492][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1998223403}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:05:33,848][command][INFO] PyCqBot: 摆烂的辅助 (qq=2465570749,群号=909862218) 使用指令: #卡组 金克丝
+[2022-05-07 09:05:34,790][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1026509206}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:14:56,146][command][INFO] PyCqBot: 日服 乐黄郡 (qq=664633946,群号=545327542) 使用指令: #卡组 刀妹
+[2022-05-07 09:14:56,886][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1804868995}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:15:49,941][command][INFO] PyCqBot: 時雨 (qq=1242429586,群号=909862218) 使用指令: #卡组 德玛西亚
+[2022-05-07 09:15:51,012][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 733156191}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:16:02,846][command][INFO] PyCqBot: 時雨 (qq=1242429586,群号=909862218) 使用指令: #卡组 德玛
+[2022-05-07 09:16:03,885][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -977440141}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:19:50,061][command][INFO] PyCqBot: 行走在 危↑险边缘肆意的怪盗 (qq=942016743,群号=174504130) 使用指令: #echo ### 古夫德
+# 职业：德鲁伊
+# 模式：标准模式
+# 多头蛇年
+#
+# 1x (2) 末日预言者
+# 1x (2) 火山术
+# 1x (2) 秘法学家
+# 1x (2) 自爆绵羊
+# 1x (2) 风雪增幅体
+# 1x (3) 奥术智慧
+# 1x (3) 宝藏守卫
+# 1x (3) 寒冰护体
+# 1x (3) 布莱恩·铜须
+# 1x (3) 织霜地下城历险家
+# 1x (3) 蛇发女妖佐拉
+# 1x (3) 锈烂蝰蛇
+# 1x (4) 剑圣奥卡尼
+# 1x (4) 学校教师
+# 1x (4) 深水唤醒师
+# 1x (4) 火热促销
+# 1x (4) 鲁莽的学徒
+# 1x (5) 奥术溢爆
+# 1x (5) 暗影猎手沃金
+# 1x (5) 艾萨拉女王
+# 1x (6) 暴风雪
+# 1x (6) 灰贤鹦鹉
+# 1x (6) 野蛮的女巫
+# 1x (6) 雷诺·杰克逊
+# 1x (7) 烈焰风暴
+# 1x (7) 群体变形
+# 1x (7) 魔导师晨拥
+# 1x (9) 卡雷苟斯
+# 1x (9) 大法师的符文
+# 1x (10) 龙火护符
+# 
+AAECAf0EHuDlA9LsA9PsA6f3A9D5A5KBBJOBBJSBBKCKBJiNBKGSBPyeBP6eBOifBMagBNWgBPuiBPqsBJmwBMeyBIe3BJa3BMu3BNu5BO/TBPHTBJbUBJjUBJrUBJ3UBAAA
+# 
+# 想要使用这副套牌，请先复制到剪贴板，然后在游戏中点击“新套牌”进行粘贴。
+[2022-05-07 09:19:51,494][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 226160492}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:23:26,581][command][INFO] PyCqBot: 行走在 危↑险边缘肆意的怪盗 (qq=942016743,群号=174504130) 使用指令: #echo ### 快攻瞎
+# 职业：恶魔猎手
+# 模式：标准模式
+# 多头蛇年
+#
+# 1x (1) 多重打击
+# 1x (2) 火山术
+# 1x (2) 秘法学家
+# 1x (2) 自爆绵羊
+# 1x (2) 风雪增幅体
+# 1x (3) 奥术智慧
+# 1x (3) 宝藏守卫
+# 1x (3) 寒冰护体
+# 1x (3) 布莱恩·铜须
+# 1x (3) 织霜地下城历险家
+# 1x (3) 蛇发女妖佐拉
+# 1x (3) 锈烂蝰蛇
+# 1x (4) 剑圣奥卡尼
+# 1x (4) 学校教师
+# 1x (4) 深水唤醒师
+# 1x (4) 火热促销
+# 1x (4) 鲁莽的学徒
+# 1x (5) 奥术溢爆
+# 1x (5) 暗影猎手沃金
+# 1x (5) 艾萨拉女王
+# 1x (6) 暴风雪
+# 1x (6) 灰贤鹦鹉
+# 1x (6) 野蛮的女巫
+# 1x (6) 雷诺·杰克逊
+# 1x (7) 烈焰风暴
+# 1x (7) 群体变形
+# 1x (7) 魔导师晨拥
+# 1x (9) 卡雷苟斯
+# 1x (9) 大法师的符文
+# 1x (10) 龙火护符
+# 
+AAECAf0EHuDlA9LsA9PsA6f3A9D5A5KBBJOBBJSBBKCKBJiNBKGSBPyeBP6eBOifBMagBNWgBPuiBPqsBJmwBMeyBIe3BJa3BMu3BNu5BO/TBPHTBJbUBJjUBJrUBJ3UBAAA
+# 
+# 想要使用这副套牌，请先复制到剪贴板，然后在游戏中点击“新套牌”进行粘贴。
+[2022-05-07 09:23:27,464][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 448419359}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:23:57,088][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组 潘森
+[2022-05-07 09:23:57,769][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -866852000}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:25:27,458][command][INFO] PyCqBot: 暗黑佟大为 (qq=3284438885,群号=909862218) 使用指令: #卡组 皇子
+[2022-05-07 09:25:28,421][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 902161927}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:31:31,982][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 乐芙兰
+[2022-05-07 09:31:32,718][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2046467373}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:33:07,504][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 乌迪尔
+[2022-05-07 09:33:08,229][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1644361358}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:34:12,767][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 伊泽瑞尔 凯南
+[2022-05-07 09:34:13,497][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -845772457}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:34:31,401][command][INFO] PyCqBot: はなはまさじ (qq=3312106945,群号=477949486) 使用指令: #卡组 斯维因
+[2022-05-07 09:34:32,089][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1130324382}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:35:03,252][command][INFO] PyCqBot: 美服 XQX#9527 (qq=2328064782,群号=545327542) 使用指令: #卡组 提莫
+[2022-05-07 09:35:04,031][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 915602744}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:35:05,968][command][INFO] PyCqBot: はなはまさじ (qq=3312106945,群号=477949486) 使用指令: #卡组 艾克
+[2022-05-07 09:35:06,684][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1144169863}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:35:19,284][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 杰斯 拉克丝
+[2022-05-07 09:35:20,069][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -728909802}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:35:26,953][command][INFO] PyCqBot: hee (qq=995700378,群号=545327542) 使用指令: #卡组 蜘蛛
+[2022-05-07 09:35:27,754][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -43366427}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:35:32,502][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 杰斯 大头
+[2022-05-07 09:35:33,181][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -243571737}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:36:07,540][command][INFO] PyCqBot: はなはまさじ (qq=3312106945,群号=477949486) 使用指令: #卡组 锤石
+[2022-05-07 09:36:08,187][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1864365636}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:36:34,235][command][INFO] PyCqBot: はなはまさじ (qq=3312106945,群号=477949486) 使用指令: #卡组 人马
+[2022-05-07 09:36:34,925][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2002265277}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:36:41,645][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 内瑟斯
+[2022-05-07 09:36:42,364][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -396340570}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:37:13,509][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 弗耶戈
+[2022-05-07 09:37:14,506][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1980024581}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:37:25,274][command][INFO] PyCqBot: yz (qq=3208371236,群号=477949486) 使用指令: #卡组 佛耶戈
+[2022-05-07 09:37:26,746][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -423896428}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:38:58,075][command][INFO] PyCqBot: 4860. (qq=1282475132,群号=750653891) 使用指令: #卡组 蜘蛛
+[2022-05-07 09:38:58,818][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1798515785}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:42:20,822][command][INFO] PyCqBot: 指令 #牌组 龙王 不存在...
+[2022-05-07 09:42:21,093][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1751123647}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:42:39,733][command][INFO] PyCqBot: はなはまさじ (qq=3312106945,群号=477949486) 使用指令: #卡组 女枪
+[2022-05-07 09:42:40,450][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -938391976}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:43:59,007][command][INFO] PyCqBot: 撕票狂魔 (qq=421169669,群号=160740083) 使用指令: #排行榜 美服 Nintendo
+[2022-05-07 09:44:04,014][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1987208732}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:44:48,244][command][INFO] PyCqBot: 冷漠 (qq=1772451767,群号=1060536929) 使用指令: #卡组 飞升
+[2022-05-07 09:44:49,223][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 613489776}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:45:45,936][MainThread][INFO] PyCqBot: 接收到 at bot Spica (qq=3185048069,群号=1060536929) 
+[2022-05-07 09:46:03,038][command][INFO] PyCqBot: Neutral (qq=949436294,群号=909862218) 使用指令: #卡组 龙王
+[2022-05-07 09:46:04,127][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 991850037}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:47:04,508][command][INFO] PyCqBot: 亚太 jianzhuo#123 (qq=2556279204,群号=545327542) 使用指令: #卡组 吸血鬼
+[2022-05-07 09:47:05,234][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -303611190}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:47:33,065][MainThread][INFO] PyCqBot: 接收到 at bot 美服 Nicke1bot 9233 (qq=1175344390,群号=545327542) 
+[2022-05-07 09:47:33,066][MainThread][INFO] PyCqBot: 接收到 at bot 美服 Nicke1bot 9233 (qq=1175344390,群号=545327542) 
+[2022-05-07 09:48:51,416][command][INFO] PyCqBot: 亚服 order (qq=2953202131,群号=545327542) 使用指令: #卡组 乐芙兰
+[2022-05-07 09:48:52,167][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -959835895}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:49:09,519][command][INFO] PyCqBot: 亚服 order (qq=2953202131,群号=545327542) 使用指令: #卡组 希维尔
+[2022-05-07 09:49:10,297][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1346644793}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:49:58,401][command][INFO] PyCqBot: 触不可及 (qq=2922282230,群号=477949486) 使用指令: #卡组 纳尔
+[2022-05-07 09:49:59,121][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1755110276}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:51:38,863][command][INFO] PyCqBot: 黑不溜秋小青年 (qq=993170962,群号=545327542) 使用指令: #卡组 金克斯
+[2022-05-07 09:51:39,610][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 277010036}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 09:51:56,517][command][INFO] PyCqBot: XIEYY (qq=450472719,群号=477949486) 使用指令: #卡组 EZ
+[2022-05-07 09:51:57,304][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 310832088}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:07:27,678][command][INFO] PyCqBot: 不加糖谢谢 (qq=3302854579,群号=477949486) 使用指令: #卡组 乌迪尔
+[2022-05-07 10:07:28,402][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -145580306}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:08:34,085][command][INFO] PyCqBot: 指令 #这是在干什么 不存在...
+[2022-05-07 10:08:34,340][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1702692469}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:09:00,057][command][INFO] PyCqBot: 橙路 (qq=3310171992,群号=545327542) 使用指令: #卡组表现
+[2022-05-07 10:09:00,845][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2113953326}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:09:23,333][command][INFO] PyCqBot: 橙路 (qq=3310171992,群号=545327542) 使用指令: #卡组表现
+[2022-05-07 10:09:24,123][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1241979663}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:09:31,561][command][INFO] PyCqBot: の良人 (qq=194610422,群号=545327542) 使用指令: #art 沉默桃桃
+[2022-05-07 10:09:32,387][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1553678790}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:10:19,793][command][INFO] PyCqBot: 橙路 (qq=3310171992,群号=545327542) 使用指令: #卡组表现
+[2022-05-07 10:10:20,577][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -847724563}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:10:33,171][command][INFO] PyCqBot: 橙路 (qq=3310171992,群号=545327542) 使用指令: #排行榜 美服
+[2022-05-07 10:10:41,281][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -993070138}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:11:11,860][command][INFO] PyCqBot: 时倾 (qq=2475312037,群号=585608546) 使用指令: #卡组 女枪
+[2022-05-07 10:11:12,597][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2101007502}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:11:23,140][command][INFO] PyCqBot: 橙路 (qq=3310171992,群号=545327542) 使用指令: #code CMBQEAIFFAYQGBAFGU3DOBQEA4ATMO2MM5WQCAQEA5IXSAIDAECQCGI5
+[2022-05-07 10:11:24,107][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -729532799}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:12:19,233][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1527856626}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:14:09,371][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 拉克丝暗影岛
+[2022-05-07 10:14:10,198][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 682366392}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:14:59,905][command][INFO] PyCqBot: 游戏王（GamerLv244#1092） (qq=2446567101,群号=545327542) 使用指令: #排行榜 亚服 GamerLv244
+[2022-05-07 10:15:03,998][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1107954865}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:20:52,483][command][INFO] PyCqBot: 海綿寶寶，肆意的笑 (qq=527111340,群号=983596236) 使用指令: #卡组 艾希
+[2022-05-07 10:20:53,224][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1669781464}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:23:21,977][command][INFO] PyCqBot: 茶茶（ChaxLove＃7470） (qq=2074472309,群号=160740083) 使用指令: #排行榜 亚服
+[2022-05-07 10:23:26,013][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1126809735}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:24:03,195][command][INFO] PyCqBot: 憨八嘎 (qq=2133843581,群号=545327542) 使用指令: #排行榜 亚服 Waddl4s
+[2022-05-07 10:24:05,666][command][INFO] PyCqBot: 生姜 (qq=3206493501,群号=750653891) 使用指令: #卡组 探底
+[2022-05-07 10:24:06,436][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1504721798}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:24:06,915][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 82659241}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:24:17,521][command][INFO] PyCqBot: 生姜 (qq=3206493501,群号=750653891) 使用指令: #卡组 泰坦
+[2022-05-07 10:24:18,218][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1806542280}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:25:36,180][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 拉克丝
+[2022-05-07 10:25:36,920][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1327523863}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:28:06,807][command][INFO] PyCqBot: 日服 乐黄郡 (qq=664633946,群号=545327542) 使用指令: #卡组 刀妹
+[2022-05-07 10:28:07,620][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -237565493}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:30:08,611][command][INFO] PyCqBot: Flince (qq=3477164609,群号=545327542) 使用指令: #卡组 伊莉丝
+[2022-05-07 10:30:09,334][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1908762928}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:38:53,688][command][INFO] PyCqBot: 颜心言斤 (qq=2825921248,群号=750653891) 使用指令: #卡组 艾克
+[2022-05-07 10:38:54,482][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 701128447}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:41:36,203][command][INFO] PyCqBot: P·E·K·K·A (qq=756961912,群号=545327542) 使用指令: #视频 飞升
+[2022-05-07 10:41:37,560][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1075032857}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:41:45,726][command][INFO] PyCqBot: 美服 华科小超梦#3641 (qq=862935920,群号=477949486) 使用指令: #卡组 all
+[2022-05-07 10:41:46,466][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -730888204}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:46:35,749][command][INFO] PyCqBot: 弗勒克斯 (qq=2321283828,群号=160740083) 使用指令: #排行榜 美服
+[2022-05-07 10:46:40,252][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1437964878}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:47:43,660][command][INFO] PyCqBot: 张三土 (qq=2894713560,群号=477949486) 使用指令: #卡组 炸弹人
+[2022-05-07 10:47:44,900][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1379705080}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:55:01,966][command][INFO] PyCqBot: ▄︻┻┳═一 (qq=124433626,群号=545327542) 使用指令: #卡组 女警
+[2022-05-07 10:55:02,851][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 872256504}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 10:55:25,051][command][INFO] PyCqBot: 亚太 jianzhuo#123 (qq=2556279204,群号=545327542) 使用指令: #卡组 拉克丝
+[2022-05-07 10:55:25,825][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 881874913}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:00:20,965][command][INFO] PyCqBot: 凯 (qq=1828473920,群号=545327542) 使用指令: #卡组 维克托
+[2022-05-07 11:00:21,748][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -212242920}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:01:58,142][command][INFO] PyCqBot: 漂舟雪隐 (qq=1871748134,群号=750653891) 使用指令: #卡组 岩雀
+[2022-05-07 11:01:58,854][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2127305409}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:02:05,916][command][INFO] PyCqBot: cylvied (qq=2412378355,群号=545327542) 使用指令: #卡组 巨魔
+[2022-05-07 11:02:06,693][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1070338268}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:04:08,844][command][INFO] PyCqBot: 玻璃（亚 GentleL#4471） (qq=1660974361,群号=477949486) 使用指令: #卡组 泰坦
+[2022-05-07 11:04:09,614][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1341061515}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:04:22,269][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 南通
+[2022-05-07 11:04:23,277][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 675591287}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:04:36,811][command][INFO] PyCqBot: 憨八嘎 (qq=2133843581,群号=545327542) 使用指令: #排行榜 亚服 Waddl4s
+[2022-05-07 11:04:41,031][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1139214113}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:05:01,733][command][INFO] PyCqBot: 树叶与风 (qq=2643177950,群号=477949486) 使用指令: #卡组 暗影岛
+[2022-05-07 11:05:02,600][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -311982440}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:06:51,194][command][INFO] PyCqBot: 。 (qq=1126045872,群号=750653891) 使用指令: #卡组 月男
+[2022-05-07 11:06:51,876][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1913876542}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:06:53,998][command][INFO] PyCqBot: 美服 Nicke1bot 9233 (qq=1175344390,群号=545327542) 使用指令: #卡组 婕拉
+[2022-05-07 11:06:55,105][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 307162417}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:07:05,390][command][INFO] PyCqBot: 美服 Nicke1bot 9233 (qq=1175344390,群号=545327542) 使用指令: #卡组 拉克丝
+[2022-05-07 11:07:06,137][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -224721873}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:08:36,882][command][INFO] PyCqBot: 憨八嘎 (qq=2133843581,群号=545327542) 使用指令: #线路图
+[2022-05-07 11:08:37,296][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1105454576}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:12:16,770][command][INFO] PyCqBot: 亚服 BAit#4220 (qq=2781896582,群号=545327542) 使用指令: #卡组
+[2022-05-07 11:12:16,770][command][INFO] PyCqBot: 指令 #卡组 运行时错误... Error: list index out of range
+[2022-05-07 11:12:16,770][command][ERROR] PyCqBot: list index out of range
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\site-packages\pycqBot\cqApi.py", line 731, in run_command
+    self._commandList[command]["function"](commandData, cqCode_list, message, from_id)
+  File "main.py", line 317, in deck
+    print(commandData[0] == "all" or commandData[0] == "所有" or commandData[0] == "全")
+IndexError: list index out of range
+[2022-05-07 11:12:17,078][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 856914465}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:12:28,042][command][INFO] PyCqBot: 亚服 BAit#4220 (qq=2781896582,群号=545327542) 使用指令: #卡组 乌迪尔
+[2022-05-07 11:12:28,784][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -630137068}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:13:35,569][command][INFO] PyCqBot: 亚服 BAit#4220 (qq=2781896582,群号=545327542) 使用指令: #卡组 雪人
+[2022-05-07 11:13:36,558][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 761630585}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:15:01,096][command][INFO] PyCqBot: 亚服 44583881#8155 (qq=1572009197,群号=477949486) 使用指令: #卡组 牛子的支配
+[2022-05-07 11:15:02,780][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -606299992}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:16:13,797][command][INFO] PyCqBot: 漂舟雪隐 (qq=1871748134,群号=750653891) 使用指令: #卡组 美人贝
+[2022-05-07 11:16:14,615][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -104165503}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:16:59,948][command][INFO] PyCqBot: 亚服 tifatxqq#5916 (qq=2622527179,群号=750653891) 使用指令: #卡组 亚菲利欧
+[2022-05-07 11:17:00,648][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1575292744}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:20:52,362][command][INFO] PyCqBot: Linlog（亚服#666美服#1314)互投私聊 (qq=2035533082,群号=545327542) 使用指令: #卡图 割喉
+[2022-05-07 11:20:53,397][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1814788173}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:21:09,867][command][INFO] PyCqBot: Linlog（亚服#666美服#1314)互投私聊 (qq=2035533082,群号=545327542) 使用指令: #卡图 潜行割喉者
+[2022-05-07 11:21:22,799][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -346760017}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:22:13,072][command][INFO] PyCqBot: Linlog（亚服#666美服#1314)互投私聊 (qq=2035533082,群号=545327542) 使用指令: #卡组 火ez
+[2022-05-07 11:22:13,890][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1065775252}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:22:22,656][command][INFO] PyCqBot: Linlog（亚服#666美服#1314)互投私聊 (qq=2035533082,群号=545327542) 使用指令: #卡组 ez
+[2022-05-07 11:22:23,408][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1500569302}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:22:55,126][command][INFO] PyCqBot: Linlog（亚服#666美服#1314)互投私聊 (qq=2035533082,群号=545327542) 使用指令: #代码 CEDACAIDFYAQEAYJAEBQGDIBAMCBCAYBAQPSINAEAUCAMDANDABACAIEDMBACAZTG4AQCBADAI
+[2022-05-07 11:22:55,959][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -828242082}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:26:36,007][command][INFO] PyCqBot: 指令 #沙皇 刀妹 不存在...
+[2022-05-07 11:26:36,310][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1194899185}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:26:45,924][command][INFO] PyCqBot: 漂舟雪隐 (qq=1871748134,群号=750653891) 使用指令: #卡组 沙皇 刀妹
+[2022-05-07 11:26:46,758][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1358434178}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:27:14,362][command][INFO] PyCqBot: 凯 (qq=1828473920,群号=545327542) 使用指令: #卡组 加里奥
+[2022-05-07 11:27:15,134][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 633684132}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:41:06,954][command][INFO] PyCqBot: 美服 KaroNGGG#6963 (qq=731780745,群号=545327542) 使用指令: #卡组 猫咪
+[2022-05-07 11:41:07,747][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1142716015}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:43:19,810][command][INFO] PyCqBot: 指令 ### 奇数战
+# 职业：战士
+# 模式：狂野模式
+#
+# 2x (1) 恒金巡游者
+# 2x (1) 护甲商贩
+# 1x (1) 猛力进攻
+# 2x (1) 盾牌猛击
+# 2x (1) 铜皮铁甲
+# 2x (3) 剑刃风暴
+# 2x (3) 厚重板甲
+# 1x (3) 埃辛诺斯壁垒
+# 2x (3) 寒光智者
+# 1x (3) 巴罗夫领主
+# 1x (3) 布莱恩·铜须
+# 2x (3) 怒袭
+# 2x (3) 怪盗军需官
+# 2x (3) 盾牌格挡
+# 2x (3) 鲁莽风暴
+# 2x (5) 绝命乱斗
+# 1x (7) “科学狂人”砰砰博士
+# 1x (9) 噬月者巴库
+# 
+AAEBAYwWBpL4Ap74AvnCA5PQA9GsBJjUBAz4B7nDAsrnArP8AtmtA7i5A5LkA/iABIigBImgBI7UBJDUBAA=
+# 
+# 想要使用这副套牌，请先复制到剪贴板，然后在游戏中点击“新套牌”进行粘贴。
+ 不存在...
+[2022-05-07 11:43:20,933][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2074615651}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:43:42,857][MainThread][INFO] PyCqBot: 接收到 at bot 小逼呆子 (qq=3568677991,群号=1085146271) 
+[2022-05-07 11:45:54,716][command][INFO] PyCqBot: Santiren (qq=1149190468,群号=1060536929) 使用指令: #卡组 飞升
+[2022-05-07 11:45:55,924][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1685964078}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:46:15,211][command][INFO] PyCqBot: Santiren (qq=1149190468,群号=1060536929) 使用指令: #卡组 女枪
+[2022-05-07 11:46:16,377][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1063609235}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:46:38,024][command][INFO] PyCqBot: 美服 dlwlrma (qq=2754807311,群号=545327542) 使用指令: #卡组 比港
+[2022-05-07 11:46:38,771][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -179944142}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:46:54,078][command][INFO] PyCqBot: 美服 WQW123zz #5701 (qq=2904469901,群号=545327542) 使用指令: #卡组 女枪
+[2022-05-07 11:46:54,874][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 472244231}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:47:29,308][command][INFO] PyCqBot: 再也没人知道艾欧人的下落 (qq=943178961,群号=1060536929) 使用指令: #卡组 卡尔玛
+[2022-05-07 11:47:30,229][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1082719382}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:48:39,732][command][INFO] PyCqBot: Santiren (qq=1149190468,群号=1060536929) 使用指令: #卡组 女枪
+[2022-05-07 11:48:40,627][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 820119577}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:48:52,594][command][INFO] PyCqBot: Santiren (qq=1149190468,群号=1060536929) 使用指令: #卡组 奥巴马
+[2022-05-07 11:48:53,516][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -681958114}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:51:55,629][command][INFO] PyCqBot: Santiren (qq=1149190468,群号=1060536929) 使用指令: #卡组 女警
+[2022-05-07 11:51:56,563][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1825073996}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:52:19,548][command][INFO] PyCqBot: 美服 dlwlrma (qq=2754807311,群号=545327542) 使用指令: #视频 女枪
+[2022-05-07 11:52:20,554][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2129038125}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:53:19,018][command][INFO] PyCqBot: 是无奈啊qwq#EDG (qq=273182810,群号=545327542) 使用指令: #卡组 阿克尚基兰
+[2022-05-07 11:53:19,914][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 395792099}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:53:28,115][command][INFO] PyCqBot: 是无奈啊qwq#EDG (qq=273182810,群号=545327542) 使用指令: #卡组 阿克尚 基兰
+[2022-05-07 11:53:29,077][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1562474365}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:53:39,662][command][INFO] PyCqBot: 是无奈啊qwq#EDG (qq=273182810,群号=545327542) 使用指令: #卡组 基兰
+[2022-05-07 11:53:41,821][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1288759727}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:53:59,850][command][INFO] PyCqBot: 美服czfgp00#8177 (qq=616716601,群号=750653891) 使用指令: #卡组 乌迪尔
+[2022-05-07 11:54:00,695][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 842753192}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:55:38,414][command][INFO] PyCqBot: 美服#kaiye (qq=1828473920,群号=545327542) 使用指令: #卡组 佛耶戈
+[2022-05-07 11:55:39,104][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1408958287}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:56:21,152][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -877703859}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:57:08,245][command][INFO] PyCqBot: 深蓝色的鸟蛋 (qq=1797314414,群号=1060536929) 使用指令: #卡组 雷克萨
+[2022-05-07 11:57:09,102][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 47475355}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:57:38,532][command][INFO] PyCqBot: 深蓝色的鸟蛋 (qq=1797314414,群号=1060536929) 使用指令: #卡组 雷克塞
+[2022-05-07 11:57:39,552][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -445888612}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:58:12,654][command][INFO] PyCqBot: 指令 # 卡组 卡牌 不存在...
+[2022-05-07 11:58:12,908][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2064721014}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:58:29,450][command][INFO] PyCqBot: 脱落的松子 (qq=642878280,群号=545327542) 使用指令: #卡组 崔斯特
+[2022-05-07 11:58:30,123][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1793112742}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:59:36,414][command][INFO] PyCqBot: の良人 (qq=194610422,群号=545327542) 使用指令: #卡组 崔斯特 泰坦
+[2022-05-07 11:59:37,890][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1923573855}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 11:59:43,884][command][INFO] PyCqBot: ytkyr#9506 (qq=1874738660,群号=545327542) 使用指令: #卡组 佛耶戈
+[2022-05-07 11:59:44,694][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1701302574}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:02:39,606][command][INFO] PyCqBot: Likulau (qq=1569526424,群号=1060536929) 使用指令: #卡组 卡特琳娜
+
+[2022-05-07 12:02:40,521][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1257781317}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:02:48,253][command][INFO] PyCqBot: Likulau (qq=1569526424,群号=1060536929) 使用指令: #卡组 卡特琳娜
+[2022-05-07 12:02:49,106][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1550082704}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:05:00,556][command][INFO] PyCqBot: 亚太 jianzhuo#123 (qq=2556279204,群号=545327542) 使用指令: #卡组 EZ
+[2022-05-07 12:05:01,335][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 833035754}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:08:01,001][command][INFO] PyCqBot: 爆爆 (qq=459740831,群号=750653891) 使用指令: #代码 CIBQCBIABQBACAAGFIBQGCKJMDMQCBABAIAACAIDAAHAEAIABENAKAYJC4RTGVCWAQAQCAAPAEBQSVIBAUABIAIFBEFA
+[2022-05-07 12:08:02,156][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2048341622}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:09:32,390][command][INFO] PyCqBot: 凭剑。 (qq=1255923398,群号=585608546) 使用指令: #卡组 纳尔
+[2022-05-07 12:09:33,134][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1958650983}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:15:03,677][command][INFO] PyCqBot: 亚太 jianzhuo#123 (qq=2556279204,群号=545327542) 使用指令: #exp
+[2022-05-07 12:15:05,000][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1056744313}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:25:26,805][command][INFO] PyCqBot: 指令 ### 开门
+# 职业：法师
+# 模式：狂野模式
+#
+# 2x (1) 初始之火
+# 1x (1) 唤醒
+# 1x (1) 打开时空之门
+# 1x (1) 海中向导芬利爵士
+# 2x (1) 霜冻射线
+# 1x (1) 魔术戏法
+# 2x (2) 制造法力饼干
+# 2x (2) 研发计划
+# 2x (2) 资深探险者
+# 2x (2) 远古谜团
+# 2x (2) 邮箱舞者
+# 2x (3) 奥术智慧
+# 2x (3) 寒冰屏障
+# 1x (3) 布莱恩·铜须
+# 1x (3) 观星者露娜
+# 1x (3) 重钳执行者
+# 2x (4) 幻觉药水
+# 1x (4) 指挥官西瓦拉
+# 2x (6) 灰贤鹦鹉
+# 
+AAEBAY0WCNDBAu72Av+dA8W4A+WwBISyBJjUBKneBAvAAbT8Ap+bA/SrA7i2A+XRA4XkA673A875A5KBBPyeBAA=
+# 
+# 想要使用这副套牌，请先复制到剪贴板，然后在游戏中点击“新套牌”进行粘贴。
+ 不存在...
+[2022-05-07 12:25:27,637][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1608883975}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:25:44,823][MainThread][INFO] PyCqBot: 接收到 at bot 小逼呆子 (qq=3568677991,群号=1085146271) 
+[2022-05-07 12:27:14,884][command][INFO] PyCqBot: Ar (qq=1508170637,群号=585608546) 使用指令: #卡组 伊莉丝
+[2022-05-07 12:27:15,622][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -365065751}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:27:17,475][command][INFO] PyCqBot: BYM (qq=1445771438,群号=477949486) 使用指令: #卡组 月男
+[2022-05-07 12:27:18,184][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1561532435}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:27:48,506][command][INFO] PyCqBot: BYM (qq=1445771438,群号=477949486) 使用指令: #code CQBQCAQGFYBAGCJD3EAQMBIKCQQDDJQBW4A5SAICAEBQSMYEAUFBGKERAGYQCAQBAMEVKAQFBLIQDUQB
+[2022-05-07 12:27:49,335][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 356469453}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:29:50,355][command][INFO] PyCqBot: 亚服 六耳猕猴 (qq=634917505,群号=750653891) 使用指令: #卡组 冰鸟
+[2022-05-07 12:29:51,094][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1656183972}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:30:50,970][command][INFO] PyCqBot: 亚服 tifatxqq#5916 (qq=2622527179,群号=750653891) 使用指令: #卡组 好运姐
+[2022-05-07 12:30:51,710][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1970791889}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:31:23,947][command][INFO] PyCqBot: 指令 #伊莉丝 原画 不存在...
+[2022-05-07 12:31:24,273][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1506305804}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:33:27,476][command][INFO] PyCqBot: 指令 #卡牌 伊莉丝 不存在...
+[2022-05-07 12:33:27,719][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -261275790}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:33:53,094][command][INFO] PyCqBot: 云 (qq=1447308509,群号=545327542) 使用指令: #原画 贴贴
+[2022-05-07 12:33:53,967][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -103058599}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:34:24,365][command][INFO] PyCqBot: 憨八嘎 (qq=2133843581,群号=545327542) 使用指令: #原画 蜘蛛
+[2022-05-07 12:34:27,764][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -300168662}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:36:28,413][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2106385716}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:37:39,327][command][INFO] PyCqBot: 93℃`cpu (qq=781459650,群号=545327542) 使用指令: #卡组 菲欧拉
+[2022-05-07 12:37:39,978][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1118733606}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:38:31,715][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1447431898}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:38:55,677][command][INFO] PyCqBot: 天雪葵萱 (qq=1014495734,群号=750653891) 使用指令: #卡组 维克托
+[2022-05-07 12:38:56,480][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -347457131}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:39:05,281][command][INFO] PyCqBot: 美服#kaiye (qq=1828473920,群号=545327542) 使用指令: #卡组 泽拉斯
+[2022-05-07 12:39:06,069][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1621246645}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:43:07,057][command][INFO] PyCqBot: 歌者 (qq=724153691,群号=585608546) 使用指令: #卡组 沙皇
+[2022-05-07 12:43:07,848][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1434303226}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:43:40,268][command][INFO] PyCqBot: Santiren (qq=1149190468,群号=1060536929) 使用指令: #卡组 蜘蛛
+[2022-05-07 12:43:42,357][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1583382593}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:44:00,943][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 608939471}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:44:28,272][command][INFO] PyCqBot: 狡猾夜龙之乌鸦分龙 (qq=363802108,群号=585608546) 使用指令: #卡组 露露
+[2022-05-07 12:44:29,008][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -853014278}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:44:45,444][command][INFO] PyCqBot: 狡猾夜龙之乌鸦分龙 (qq=363802108,群号=585608546) 使用指令: #卡组 石头人
+[2022-05-07 12:44:46,221][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 589720022}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:44:50,909][command][INFO] PyCqBot: 结衣SAMA (qq=3275522570,群号=585608546) 使用指令: #卡组 金克丝
+[2022-05-07 12:44:51,631][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -996260655}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:45:17,081][command][INFO] PyCqBot: 狡猾夜龙之乌鸦分龙 (qq=363802108,群号=585608546) 使用指令: #卡组 薇
+[2022-05-07 12:45:17,926][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -513237216}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:46:40,368][command][INFO] PyCqBot: 亚服 椎名真白 (qq=3534850560,群号=750653891) 使用指令: #卡组 吉茵珂絲
+[2022-05-07 12:46:41,267][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2109997989}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:50:53,915][command][INFO] PyCqBot: 美服 rea1ex6y#3486 (qq=3138923832,群号=545327542) 使用指令: #卡组 诺手
+[2022-05-07 12:50:54,665][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -80644017}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:52:49,635][command][INFO] PyCqBot: 凛冰仲裁官 (qq=3106195942,群号=545327542) 使用指令: #卡组 崔斯特
+[2022-05-07 12:52:50,779][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2065897652}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:52:53,334][command][INFO] PyCqBot: kid (qq=416914603,群号=477949486) 使用指令: #卡组 小法
+[2022-05-07 12:52:54,023][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 749918047}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:53:21,583][command][INFO] PyCqBot: kid (qq=416914603,群号=477949486) 使用指令: #卡组 宝石
+[2022-05-07 12:53:22,306][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1170412177}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:53:32,920][command][INFO] PyCqBot: 碎冰冰3120#美服 (qq=2819112213,群号=477949486) 使用指令: #卡组 奎因
+[2022-05-07 12:53:33,648][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1525220465}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:53:46,214][command][INFO] PyCqBot: 凛冰仲裁官 (qq=3106195942,群号=545327542) 使用指令: #卡组 偷拍
+[2022-05-07 12:53:47,185][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1316535855}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:53:54,104][command][INFO] PyCqBot: 凛冰仲裁官 (qq=3106195942,群号=545327542) 使用指令: #卡组 偷牌
+[2022-05-07 12:53:54,929][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1226144310}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:53:55,797][command][INFO] PyCqBot: 亚服 不息之犬#9191 (qq=2918158788,群号=545327542) 使用指令: #卡组 偷拍
+[2022-05-07 12:53:56,609][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1364371663}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:56:00,267][command][INFO] PyCqBot: 指令 #代码CICACAIBEAAQGAICAMCQCBANCEDAGCIXENEVIYGZAEBACBABBIBAGCJ4KUAQCAYJKY 不存在...
+[2022-05-07 12:56:00,606][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -678013000}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:56:06,847][command][INFO] PyCqBot: 狡猾夜龙之卡唐分龙 (qq=3215313216,群号=545327542) 使用指令: #代码 CICACAIBEAAQGAICAMCQCBANCEDAGCIXENEVIYGZAEBACBABBIBAGCJ4KUAQCAYJKY
+[2022-05-07 12:56:07,715][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 808352447}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:56:12,118][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -285924365}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:56:32,544][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1633691780}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:57:45,050][command][INFO] PyCqBot: 凛冬 (qq=2456688601,群号=545327542) 使用指令: #卡组 拉克丝
+[2022-05-07 12:57:45,852][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -533812287}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:58:15,933][command][INFO] PyCqBot: 爆爆 (qq=459740831,群号=750653891) 使用指令: #lux
+[2022-05-07 12:58:16,365][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1066964394}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:58:48,038][command][INFO] PyCqBot: 亚服 椎名真白 (qq=3534850560,群号=750653891) 使用指令: #卡组 杰斯
+
+[2022-05-07 12:58:49,379][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1093265685}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 12:59:55,567][command][INFO] PyCqBot: 指令 #卡组拉克丝 不存在...
+[2022-05-07 12:59:55,821][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -11794402}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:00:08,117][command][INFO] PyCqBot: 亚服 椎名真白 (qq=3534850560,群号=750653891) 使用指令: #卡组 拉克丝
+[2022-05-07 13:00:08,817][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 289564978}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:00:17,496][command][INFO] PyCqBot: re. (qq=2028108314,群号=477949486) 使用指令: #卡组 佛耶戈
+[2022-05-07 13:00:18,276][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -647715435}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:07:43,994][command][INFO] PyCqBot: 美服  命数如织 (qq=1569526424,群号=174504130) 使用指令: #卡组 卡特琳娜
+[2022-05-07 13:07:44,956][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -284295162}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:09:20,254][command][INFO] PyCqBot: 美服 XQX#9527 (qq=2328064782,群号=545327542) 使用指令: #卡组 岩雀
+[2022-05-07 13:09:24,712][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 650842582}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:10:07,358][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 盖伦
+[2022-05-07 13:10:08,166][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1049412399}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:11:00,329][command][INFO] PyCqBot: 不懂街头文化的土狗 (qq=3283319271,群号=585608546) 使用指令: #卡组 剑姬
+[2022-05-07 13:11:01,065][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2048663031}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:12:42,440][command][INFO] PyCqBot: 美服 丿Specter#7806 (qq=724422066,群号=477949486) 使用指令: #card 哀难行兽
+[2022-05-07 13:12:43,325][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 278461831}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:13:05,833][command][INFO] PyCqBot: 美服  命数如织 (qq=1569526424,群号=174504130) 使用指令: #卡组 凯南
+[2022-05-07 13:13:06,848][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1994451345}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:13:53,316][command][INFO] PyCqBot: xiaoyangdumpling9691 (qq=1160396780,群号=477949486) 使用指令: #card 虚厄游兽
+[2022-05-07 13:13:56,923][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2025184241}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:14:02,229][command][INFO] PyCqBot: B站点个外卖YJJ (qq=862629739,群号=174504130) 使用指令: #卡组 嚎哭深渊
+[2022-05-07 13:14:02,973][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1729197891}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:14:17,360][command][INFO] PyCqBot: B站点个外卖YJJ (qq=862629739,群号=174504130) 使用指令: #卡组 茂凯
+[2022-05-07 13:14:18,334][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1905077640}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:14:21,943][command][INFO] PyCqBot: 美服  命数如织 (qq=1569526424,群号=174504130) 使用指令: #卡组 阿狸
+[2022-05-07 13:14:22,888][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1618785116}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:16:55,358][command][INFO] PyCqBot: HKG lucky#2256 (qq=1558512318,群号=750653891) 使用指令: #卡组 巨魔
+[2022-05-07 13:16:56,129][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1844967232}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:17:13,619][MainThread][INFO] PyCqBot: 接收到 at bot 好好学习 (qq=1939384797,群号=477949486) 
+[2022-05-07 13:17:13,620][MainThread][INFO] PyCqBot: 接收到 at bot 好好学习 (qq=1939384797,群号=477949486) 
+[2022-05-07 13:18:36,859][command][INFO] PyCqBot: 朋友们都叫我睡神 (qq=849299714,群号=750653891) 使用指令: #卡组 蔚
+[2022-05-07 13:18:37,650][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -24223191}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:18:56,124][command][INFO] PyCqBot: 天罡夜煞 (qq=1395723055,群号=750653891) 使用指令: #卡组 蜘蛛
+[2022-05-07 13:18:56,894][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 401458972}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:21:30,266][command][INFO] PyCqBot: 心灵终结 (qq=2231919448,群号=477949486) 使用指令: #卡组 蔚
+[2022-05-07 13:21:30,978][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -651757309}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:22:04,009][command][INFO] PyCqBot: xiaoyangdumpling9691 (qq=1160396780,群号=477949486) 使用指令: #卡组 佐伊
+[2022-05-07 13:22:07,373][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -53468430}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:22:09,284][command][INFO] PyCqBot: 天罡夜煞 (qq=1395723055,群号=750653891) 使用指令: #代码  CECAEAIFE42QEAQDAMCAEAYFAMDAKAIDAIHSKKBXAIAQCAYMAIAQKLZYAEAQCAYZ
+[2022-05-07 13:22:14,371][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 582377863}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:23:23,218][command][INFO] PyCqBot: 亚服 Swain#W560 (qq=2432752214,群号=477949486) 使用指令: #卡组 大头
+[2022-05-07 13:23:23,933][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1656010577}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:23:56,209][command][INFO] PyCqBot: 南苑丶秋草 (qq=1874738660,群号=477949486) 使用指令: #卡组 冰女
+[2022-05-07 13:23:56,942][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1832115419}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:23:57,984][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #卡组 all
+[2022-05-07 13:23:58,837][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2093105673}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:25:03,009][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #卡组 杰斯大头
+[2022-05-07 13:25:03,826][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1433762444}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:25:11,438][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #卡组 杰斯 大头
+[2022-05-07 13:25:12,169][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1149559896}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:26:41,626][command][INFO] PyCqBot: xiaoyangdumpling9691 (qq=1160396780,群号=477949486) 使用指令: #卡组 月男
+[2022-05-07 13:26:42,815][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 771039638}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:26:45,218][command][INFO] PyCqBot: 朋友们都叫我睡神 (qq=849299714,群号=750653891) 使用指令: #卡组 金克斯
+[2022-05-07 13:26:45,938][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1558226199}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:27:24,748][command][INFO] PyCqBot: 恩奇的喃刹怖 (qq=1549986551,群号=174504130) 使用指令: #卡组 亚索
+[2022-05-07 13:27:25,778][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1754668233}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:34:06,565][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #解析 CQBQCBIKUYAQEAIEGQ4AKBIECULBQGQ5AQAQCBAQAECAIDQCAUFADVIBAICQIGI3AQAQCBA3AEBQICYBAQCA6AIFBINA
+[2022-05-07 13:34:07,516][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2097162302}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:35:35,544][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #卡组 露露
+[2022-05-07 13:35:36,521][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 741821345}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:37:31,436][command][INFO] PyCqBot: 美服 zzyzz#moc (qq=494205021,群号=174504130) 使用指令: #卡组 卡特琳娜
+[2022-05-07 13:37:49,064][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 371679348}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:38:27,471][command][INFO] PyCqBot: 重生武大郎，开局反杀潘金莲 (qq=508459906,群号=174504130) 使用指令: #卡组 小法
+[2022-05-07 13:38:28,563][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1033759694}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:38:33,977][command][INFO] PyCqBot: 恩奇的喃刹怖 (qq=1549986551,群号=174504130) 使用指令: #卡组 维克托
+[2022-05-07 13:38:34,992][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 745305374}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:38:55,278][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组 女枪
+[2022-05-07 13:38:57,087][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 587766263}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:40:45,544][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组 佛耶戈
+[2022-05-07 13:40:46,251][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1715063779}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:44:28,020][command][INFO] PyCqBot: 亚服 MRSHENG#3454 (qq=1290545061,群号=545327542) 使用指令: #卡组 破败王
+[2022-05-07 13:44:28,754][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2073946496}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:47:34,538][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组 蜘蛛
+[2022-05-07 13:47:35,251][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2050158040}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:47:55,186][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组 纳尔
+[2022-05-07 13:47:55,885][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1129421213}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:49:55,339][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #卡组 闪电松鼠
+[2022-05-07 13:49:56,355][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -760059980}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:50:09,545][command][INFO] PyCqBot: 台服 bestJM4390 (qq=2279711697,群号=477949486) 使用指令: #卡组 凯南
+[2022-05-07 13:50:10,289][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1270560270}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:56:03,749][command][INFO] PyCqBot: 好好学习 (qq=1939384797,群号=477949486) 使用指令: #卡组 阿狸
+[2022-05-07 13:56:04,931][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1562864837}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:57:22,793][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1280808555}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 13:57:53,826][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1410352276}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:00:20,908][command][INFO] PyCqBot: HKG lucky#2256 (qq=1558512318,群号=750653891) 使用指令: #卡组 巨魔
+[2022-05-07 14:00:21,770][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1222506922}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:00:48,389][command][INFO] PyCqBot: 鲜血 (qq=2801590550,群号=750653891) 使用指令: #卡组 佐伊
+[2022-05-07 14:00:49,193][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1595752667}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:02:07,043][command][INFO] PyCqBot: 亚服互投 无良暴死 4237 (qq=506582770,群号=477949486) 使用指令: #卡组 女枪
+[2022-05-07 14:02:07,793][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1902639903}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:05:26,167][command][INFO] PyCqBot: Sin (qq=2585213115,群号=545327542) 使用指令: #卡组 破败王
+[2022-05-07 14:05:26,979][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 205917425}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:09:05,221][command][INFO] PyCqBot: Crane (qq=1515312555,群号=477949486) 使用指令: #卡组 潘森
+[2022-05-07 14:09:06,005][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1980382984}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:09:32,512][command][INFO] PyCqBot: Kira Kira (qq=2629060408,群号=750653891) 使用指令: #卡组 龙王
+[2022-05-07 14:09:33,241][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1324146185}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:09:43,477][command][INFO] PyCqBot: 后生 (qq=2752618632,群号=750653891) 使用指令: #卡组 小法
+[2022-05-07 14:09:44,258][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1483769028}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:09:59,411][command][INFO] PyCqBot: 后生 (qq=2752618632,群号=750653891) 使用指令: #卡组 鸟人
+[2022-05-07 14:10:00,182][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1233197584}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:11:00,215][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 569760426}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:11:17,190][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1722237550}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:11:32,575][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #card 卡特
+[2022-05-07 14:11:35,922][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -542152834}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:11:57,106][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #cc 01NX042T2
+[2022-05-07 14:12:01,314][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1591862333}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:13:15,285][command][INFO] PyCqBot: 台服 花鸟卷2138 (qq=785161824,群号=545327542) 使用指令: #卡组 蛮王
+[2022-05-07 14:13:16,205][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1832574593}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:13:43,701][command][INFO] PyCqBot: AHao (qq=476207918,群号=477949486) 使用指令: #卡组 希维尔
+[2022-05-07 14:13:44,470][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -353058331}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:14:22,957][command][INFO] PyCqBot: 指令 # 嚎哭深渊 不存在...
+[2022-05-07 14:14:23,241][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1784093338}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:14:53,983][command][INFO] PyCqBot: Ziuuy (qq=380458498,群号=477949486) 使用指令: #卡组 女枪 船长
+[2022-05-07 14:15:06,456][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-07 14:15:06,456][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-07 14:15:06,913][command][INFO] PyCqBot: 指令 # 嚎咆哮深渊 不存在...
+[2022-05-07 14:15:07,299][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1675712179}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:15:14,088][command][INFO] PyCqBot: 指令 # 嚎咆哮深渊 不存在...
+[2022-05-07 14:15:14,374][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 316096900}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:15:21,689][command][INFO] PyCqBot: 指令 # 咆哮深渊 不存在...
+[2022-05-07 14:15:21,991][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -72031055}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:15:31,434][command][INFO] PyCqBot: 指令 #咆哮深渊 不存在...
+[2022-05-07 14:15:31,702][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 364545437}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:15:39,483][command][INFO] PyCqBot: 亚服 bilibili这个不是派克 (qq=1937778018,群号=545327542) 使用指令: #卡组 咆哮深渊
+[2022-05-07 14:15:40,493][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -234706790}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:17:02,084][command][INFO] PyCqBot: 子非鱼 (qq=1090762188,群号=477949486) 使用指令: #card  吉格斯
+[2022-05-07 14:17:02,985][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -310460975}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:17:13,585][command][INFO] PyCqBot: BYM (qq=1445771438,群号=477949486) 使用指令: #card 地沟区铃鼠
+[2022-05-07 14:17:14,454][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 69015780}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:17:25,318][command][INFO] PyCqBot: 子非鱼 (qq=1090762188,群号=477949486) 使用指令: #card  炸弹人
+[2022-05-07 14:17:26,129][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -367822392}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:19:38,686][command][INFO] PyCqBot: 子非鱼 (qq=1090762188,群号=477949486) 使用指令: #card  吉格斯
+[2022-05-07 14:19:39,509][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1092036550}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:20:03,249][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #卡组 炸弹人
+[2022-05-07 14:20:03,981][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 546065817}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:21:07,148][command][INFO] PyCqBot: Evil wing (qq=924598626,群号=477949486) 使用指令: #card 希格斯
+[2022-05-07 14:21:10,866][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1338814456}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:21:58,947][command][INFO] PyCqBot: Meet (qq=1187040513,群号=477949486) 使用指令: #卡组  劫
+[2022-05-07 14:21:59,645][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -677831180}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:22:35,504][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组  蜘蛛
+[2022-05-07 14:22:36,242][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 366471938}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:23:10,541][command][INFO] PyCqBot: 指令 #code
+CQCACAIEGQBACBIBFABAKBILB4CAKBAWDANR6BABAECBWAIFBKMACAIFAUBQEAIFGE2QGAIBAUJQCAQEBAAQKBAV 不存在...
+[2022-05-07 14:23:11,781][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1782215687}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:23:14,280][command][INFO] PyCqBot: 美服ID  SSDwork9736 (qq=1538829764,群号=477949486) 使用指令: #help
+[2022-05-07 14:23:15,130][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2076961493}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:24:30,919][command][INFO] PyCqBot: 美服ID  SSDwork9736 (qq=1538829764,群号=477949486) 使用指令: #code CQCACAIEGQBACBIBFABAKBILB4CAKBAWDANR6BABAECBWAIFBKMACAIFAUBQEAIFGE2QGAIBAUJQCAQEBAAQKBAV
+[2022-05-07 14:24:31,722][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 881490962}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:25:35,558][command][INFO] PyCqBot: 人形态波比 (qq=1012017132,群号=477949486) 使用指令: #card 潘森
+[2022-05-07 14:25:36,297][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1169976101}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:25:51,257][command][INFO] PyCqBot: 人形态波比 (qq=1012017132,群号=477949486) 使用指令: #card 05MT003T2
+[2022-05-07 14:25:52,136][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1615507670}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:26:00,199][command][INFO] PyCqBot: 群好活，美服打牌找我，我活好 (qq=3371339312,群号=477949486) 使用指令: #cc 05MT003T2
+[2022-05-07 14:26:01,060][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1908092422}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:27:04,424][MainThread][INFO] PyCqBot: 接收到 at bot 美服ID  SSDwork9736 (qq=1538829764,群号=477949486) 
+[2022-05-07 14:27:04,425][MainThread][INFO] PyCqBot: 接收到 at bot 美服ID  SSDwork9736 (qq=1538829764,群号=477949486) 
+[2022-05-07 14:28:16,861][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #help
+[2022-05-07 14:28:17,693][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 415951816}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:28:47,902][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #排位奖励
+[2022-05-07 14:28:48,612][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -9255217}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:30:02,605][command][INFO] PyCqBot: 棍主花花 (qq=770661610,群号=1060536929) 使用指令: #卡组 阿克尚
+[2022-05-07 14:30:03,642][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 386937127}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:30:37,595][command][INFO] PyCqBot: 指令 #排位规则 不存在...
+[2022-05-07 14:30:37,976][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -281541752}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:30:49,527][command][INFO] PyCqBot: 指令 #指令集 不存在...
+[2022-05-07 14:30:49,760][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 106669757}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:31:23,691][command][INFO] PyCqBot: 南苑丶秋草 (qq=1874738660,群号=477949486) 使用指令: #线路图
+[2022-05-07 14:31:23,984][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -397031535}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:32:14,444][command][INFO] PyCqBot: 再也没人知道艾欧人的下落 (qq=943178961,群号=1060536929) 使用指令: #卡组 阿狸
+[2022-05-07 14:32:16,723][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1988844412}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:36:13,744][command][INFO] PyCqBot: 夜阑听风雨 (qq=1399788773,群号=1060536929) 使用指令: #卡组 厄斐琉斯
+[2022-05-07 14:36:14,706][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1736099240}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:42:48,814][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:42:58,499][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:43:04,508][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:43:09,364][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:43:14,387][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:45:31,106][command][INFO] PyCqBot: 。。。。。。。 (qq=1479021411,群号=909862218) 使用指令: #卡组 阿克尚
+[2022-05-07 14:45:32,075][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1453769673}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:46:21,501][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组
+[2022-05-07 14:46:21,501][command][INFO] PyCqBot: 指令 #卡组 运行时错误... Error: list index out of range
+[2022-05-07 14:46:21,501][command][ERROR] PyCqBot: list index out of range
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\site-packages\pycqBot\cqApi.py", line 731, in run_command
+    self._commandList[command]["function"](commandData, cqCode_list, message, from_id)
+  File "main.py", line 317, in deck
+    print(commandData[0] == "all" or commandData[0] == "所有" or commandData[0] == "全")
+IndexError: list index out of range
+[2022-05-07 14:46:24,295][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2132383640}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:46:47,702][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组 all
+[2022-05-07 14:46:48,751][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -259220249}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:47:55,498][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:48:04,650][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:48:17,203][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:48:33,346][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:49:58,075][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:50:28,639][command][INFO] PyCqBot: /tp小印 (qq=125673735,群号=909862218) 使用指令: #卡组 杰斯
+[2022-05-07 14:50:29,560][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 650917702}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 14:53:02,620][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:53:09,176][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:53:20,518][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:53:35,693][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 14:56:20,391][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:05:29,558][command][INFO] PyCqBot: Evil wing (qq=924598626,群号=477949486) 使用指令: #排位奖励
+[2022-05-07 15:05:30,276][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -396585371}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:06:16,866][command][INFO] PyCqBot: 谢莹莹 (qq=2417513407,群号=545327542) 使用指令: #help
+[2022-05-07 15:06:17,756][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -561793218}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:06:57,165][command][INFO] PyCqBot: 谢莹莹 (qq=2417513407,群号=545327542) 使用指令: #卡组表现
+[2022-05-07 15:06:57,917][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1088889501}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:07:24,305][command][INFO] PyCqBot: 指令 #卡组强度 不存在...
+[2022-05-07 15:07:25,651][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -281980292}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:07:31,540][command][INFO] PyCqBot: 指令 #潘森 不存在...
+[2022-05-07 15:07:31,774][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 20919120}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:07:49,688][command][INFO] PyCqBot: Evil wing (qq=924598626,群号=477949486) 使用指令: #卡组 all
+[2022-05-07 15:07:50,346][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -427352489}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:08:46,094][command][INFO] PyCqBot: 再也没人知道艾欧人的下落 (qq=943178961,群号=1060536929) 使用指令: #原画 亚索
+[2022-05-07 15:08:47,066][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -637175486}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:09:42,967][command][INFO] PyCqBot: 星ナビ (qq=515752618,群号=1060536929) 使用指令: #原画 普朗克
+[2022-05-07 15:09:47,782][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 862379127}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:10:19,823][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:12:34,877][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:12:37,524][command][INFO] PyCqBot: Evil wing (qq=924598626,群号=477949486) 使用指令: #card 龙女
+[2022-05-07 15:12:38,661][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -922680971}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:16:38,041][command][INFO] PyCqBot: Icarus (qq=2412269536,群号=585608546) 使用指令: #卡组 艾克
+[2022-05-07 15:16:38,774][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -861100474}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:17:19,797][command][INFO] PyCqBot: Icarus (qq=2412269536,群号=585608546) 使用指令: #卡组 维克托
+[2022-05-07 15:17:20,633][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1436940284}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:18:37,906][MainThread][INFO] PyCqBot: 接收到 at bot 即莫 (qq=1197470607,群号=545327542) 
+[2022-05-07 15:18:38,519][MainThread][INFO] PyCqBot: 接收到 at bot 即莫 (qq=1197470607,群号=545327542) 
+[2022-05-07 15:18:42,314][command][INFO] PyCqBot: 没道理没烦恼 (qq=846821492,群号=983596236) 使用指令: #卡组 提莫
+[2022-05-07 15:18:46,435][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1964674323}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:21:46,165][command][INFO] PyCqBot: 橙路 (qq=3310171992,群号=545327542) 使用指令: #卡组表现
+[2022-05-07 15:21:46,879][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1849548295}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:25:22,977][command][INFO] PyCqBot: 美服  命数如织 (qq=1569526424,群号=174504130) 使用指令: #卡组 扎针
+[2022-05-07 15:25:23,941][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1135746814}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:28:12,802][command][INFO] PyCqBot: 指令 #卡组黑默丁格 不存在...
+[2022-05-07 15:28:14,000][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1899645562}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:28:21,312][command][INFO] PyCqBot: 棍主花花 (qq=770661610,群号=1060536929) 使用指令: #卡组 黑默丁格
+[2022-05-07 15:28:24,549][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1738936497}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:28:53,089][command][INFO] PyCqBot: 淼 (qq=825146130,群号=585608546) 使用指令: #卡组 女枪
+[2022-05-07 15:28:53,870][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -209206258}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:29:15,661][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:29:32,305][command][INFO] PyCqBot: ytkyr#9506 (qq=1874738660,群号=545327542) 使用指令: #卡组 CEBQEAQDAMCAGAIECE2DMBQBAMBAYDY6EUUACAIBAQTQGAIBAMXQCBADCMBQCBASCQPQ
+[2022-05-07 15:29:33,187][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1745680806}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:30:28,321][command][INFO] PyCqBot: 攒运气ing (qq=1402008046,群号=545327542) 使用指令: #卡组 佛耶戈
+[2022-05-07 15:30:28,940][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=585608546) 使用指令: #卡组 重压
+[2022-05-07 15:30:29,067][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -433936062}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:30:29,800][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 495559970}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:30:49,240][command][INFO] PyCqBot: FeiFenhappy#6596 (qq=2806814230,群号=585608546) 使用指令: #卡组 加里奥
+[2022-05-07 15:30:50,042][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -185991145}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:30:58,910][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:31:53,968][command][INFO] PyCqBot: 美 stepsofpossible#6055 (qq=2140931533,群号=545327542) 使用指令: #卡组 潘森
+[2022-05-07 15:31:54,646][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 137152622}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:32:01,880][command][INFO] PyCqBot: 指令 #卡组 运行时错误... Error: list index out of range
+[2022-05-07 15:32:01,880][command][ERROR] PyCqBot: list index out of range
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\site-packages\pycqBot\cqApi.py", line 731, in run_command
+    self._commandList[command]["function"](commandData, cqCode_list, message, from_id)
+  File "main.py", line 317, in deck
+    print(commandData[0] == "all" or commandData[0] == "所有" or commandData[0] == "全")
+IndexError: list index out of range
+[2022-05-07 15:32:02,220][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 214272951}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:32:13,133][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -489952613}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:34:11,327][command][INFO] PyCqBot: ytkyr#9506 (qq=1874738660,群号=545327542) 使用指令: #排位奖励
+[2022-05-07 15:34:12,099][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2009159531}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:35:28,651][command][INFO] PyCqBot: 天空 (qq=245013651,群号=477949486) 使用指令: #卡组 锐雯
+[2022-05-07 15:35:29,388][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1150347467}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:36:51,563][command][INFO] PyCqBot: 攒运气ing (qq=1402008046,群号=545327542) 使用指令: #卡组 蜘蛛烧
+[2022-05-07 15:36:52,356][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1092962474}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:37:26,340][command][INFO] PyCqBot: 枪 (qq=1514445074,群号=545327542) 使用指令: #卡组 娜美
+[2022-05-07 15:37:27,118][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1835392880}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:37:27,200][command][INFO] PyCqBot: 铂金 (qq=974870090,群号=545327542) 使用指令: #卡组 奶妈蛤蟆
+[2022-05-07 15:37:28,146][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2090090916}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:40:54,584][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:41:22,415][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:41:38,249][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 15:47:39,358][command][INFO] PyCqBot: 生姜 (qq=3206493501,群号=750653891) 使用指令: #卡组 佐伊
+[2022-05-07 15:47:40,212][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2130210327}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:47:58,224][command][INFO] PyCqBot: 杰杰 (qq=7170363,群号=545327542) 使用指令: #卡组 沙皇
+[2022-05-07 15:47:59,025][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1154672627}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:52:10,039][command][INFO] PyCqBot: 美服#kaiye (qq=1828473920,群号=545327542) 使用指令: #卡组 塔莉雅
+[2022-05-07 15:52:10,894][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 625577390}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:53:05,072][command][INFO] PyCqBot: welkin kingdom (qq=2532705725,群号=174504130) 使用指令: #卡组 EZ
+[2022-05-07 15:53:06,082][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1618338480}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:55:47,185][command][INFO] PyCqBot: 暴走的震震 (qq=1061494149,群号=545327542) 使用指令: #卡组 泰坦
+[2022-05-07 15:55:47,940][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1879028786}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:58:01,657][command][INFO] PyCqBot: 鲜血 (qq=2801590550,群号=750653891) 使用指令: #卡组 宝石
+[2022-05-07 15:58:02,703][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1011040311}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:58:44,711][command][INFO] PyCqBot: 鲜血 (qq=2801590550,群号=750653891) 使用指令: #code CQCACBAAAMBACAAJDIBQGCI3EMZQGBIJAMCQMBABAMAA4AIDBFOACBIKDUAQKCIEAQAQEAABAECAAAQBAUABIAQDBEJTU
+[2022-05-07 15:58:45,705][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1123171466}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 15:59:23,216][command][INFO] PyCqBot: 美服 rea1ex6y#3486 (qq=3138923832,群号=545327542) 使用指令: #卡组 剑姬
+[2022-05-07 15:59:24,292][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2036592379}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:00:38,240][command][INFO] PyCqBot: 杰杰 (qq=7170363,群号=545327542) 使用指令: #卡组 猫咪
+[2022-05-07 16:00:38,962][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1754427433}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:01:00,080][command][INFO] PyCqBot: 美服 rea1ex6y#3486 (qq=3138923832,群号=545327542) 使用指令: #解析 CECACAYABYAQGAICAICQAEIUAMAQACI2FUCACBAAAIAQIAIKAMAQADIREUBQCAIEDUPAGAIBAAQACAIBFYAQEAAB
+[2022-05-07 16:01:00,927][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 131240518}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:01:26,364][command][INFO] PyCqBot: 资本家歪瑞斯 (qq=3083709680,群号=979057393) 使用指令: #卡组 兰博
+[2022-05-07 16:01:27,315][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 835629364}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:02:27,491][command][INFO] PyCqBot: welkin kingdom (qq=2532705725,群号=174504130) 使用指令: #卡组 月男
+[2022-05-07 16:02:28,525][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1729636023}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:03:23,889][command][INFO] PyCqBot: 睡猫 (qq=1767822890,群号=174504130) 使用指令: #解码 CICACAQDBEAQGBQIAMAQGKRMFYDAEBQBAULC2OR6AMAQIBQGAEBQGDIBAQBRMAIBAIDA6
+[2022-05-07 16:03:24,678][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1995028581}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:03:31,963][command][INFO] PyCqBot: 是无奈啊qwq#EDG (qq=273182810,群号=545327542) 使用指令: #解析 AQCHI6AYAQGAACAECQAFACAEAA2EICAEAQILQCAIAACBICAMAQECICAEAQABYBAEAQC
+[2022-05-07 16:03:32,364][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1775145873}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:03:49,123][command][INFO] PyCqBot: 指令 #解析CECACAYABYAQGAIZAIAQAGRNAIAQCHI6AYAQGAACAECQAFACAEAA2EICAEAQILQCAIAACBICAMAQECICAEAQABYBAEAQC 不存在...
+[2022-05-07 16:03:49,943][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -527628436}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:04:02,527][command][INFO] PyCqBot: 行走在 危↑险边缘肆意的怪盗 (qq=942016743,群号=174504130) 使用指令: #echo ### 快攻瞎
+# 职业：恶魔猎手
+# 模式：标准模式
+# 多头蛇年
+#
+# 1x (1) 多重打击
+# 1x (2) 火山术
+# 1x (2) 秘法学家
+# 1x (2) 自爆绵羊
+# 1x (2) 风雪增幅体
+# 1x (3) 奥术智慧
+# 1x (3) 宝藏守卫
+# 1x (3) 寒冰护体
+# 1x (3) 布莱恩·铜须
+# 1x (3) 织霜地下城历险家
+# 1x (3) 蛇发女妖佐拉
+# 1x (3) 锈烂蝰蛇
+# 1x (4) 剑圣奥卡尼
+# 1x (4) 学校教师
+# 1x (4) 深水唤醒师
+# 1x (4) 火热促销
+# 1x (4) 鲁莽的学徒
+# 1x (5) 奥术溢爆
+# 1x (5) 暗影猎手沃金
+# 1x (5) 艾萨拉女王
+# 1x (6) 暴风雪
+# 1x (6) 灰贤鹦鹉
+# 1x (6) 野蛮的女巫
+# 1x (6) 雷诺·杰克逊
+# 1x (7) 烈焰风暴
+# 1x (7) 群体变形
+# 1x (7) 魔导师晨拥
+# 1x (9) 卡雷苟斯
+# 1x (9) 大法师的符文
+# 1x (10) 龙火护符
+# 
+AAECAf0EHuDlA9LsA9PsA6f3A9D5A5KBBJOBBJSBBKCKBJiNBKGSBPyeBP6eBOifBMagBNWgBPuiBPqsBJmwBMeyBIe3BJa3BMu3BNu5BO/TBPHTBJbUBJjUBJrUBJ3UBAAA
+# 
+# 想要使用这副套牌，请先复制到剪贴板，然后在游戏中点击“新套牌”进行粘贴。
+[2022-05-07 16:04:03,473][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1479755007}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:04:22,493][command][INFO] PyCqBot: 是无奈啊qwq#EDG (qq=273182810,群号=545327542) 使用指令: #解析  CECACAYABYAQGAIZAIAQAGRNAIAQCHI6AYAQGAACAECQAFACAEAA2EICAEAQILQCAIAACBICAMAQECICAEAQABYBAEAQC 不存在...
+[2022-05-07 16:04:23,407][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2038716118}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:04:30,799][command][INFO] PyCqBot: Zhuxianga竹香 (qq=2351595198,群号=477949486) 使用指令: #卡组 蜘蛛
+[2022-05-07 16:04:31,447][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -926717118}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:04:38,931][MainThread][INFO] PyCqBot: 接收到 at bot 美服 zzyzz#moc (qq=494205021,群号=174504130) 
+[2022-05-07 16:04:38,931][MainThread][INFO] PyCqBot: 接收到 at bot 美服 zzyzz#moc (qq=494205021,群号=174504130) 
+[2022-05-07 16:04:44,906][command][INFO] PyCqBot: galaxy (qq=2240504079,群号=1060536929) 使用指令: #卡组 奥瑞利安索尔
+[2022-05-07 16:04:45,809][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 186677798}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:04:56,602][command][INFO] PyCqBot: galaxy (qq=2240504079,群号=1060536929) 使用指令: #卡组 龙王
+[2022-05-07 16:04:57,576][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -325560543}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:06:04,250][command][INFO] PyCqBot: 睡猫 (qq=1767822890,群号=174504130) 使用指令: #解码 CICACAIFFAAQIBIPAIBAKCAKAUBAMFZHF42TQAYBAQDAEAQBAUARSAQCAYSSYAQBAECR2AQCAYOR4
+[2022-05-07 16:06:11,358][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1320099380}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:09:53,207][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1453850337}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:10:42,396][command][INFO] PyCqBot: 美服 safasfgg#pbe (qq=1461399178,群号=545327542) 使用指令: #卡组 刀妹
+[2022-05-07 16:10:43,158][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1442819130}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:11:52,563][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组 沙皇
+[2022-05-07 16:11:54,148][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2061986107}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:12:17,781][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组 狗头
+[2022-05-07 16:12:18,471][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 177053108}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:12:30,181][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组 鳄鱼
+[2022-05-07 16:12:30,881][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -315248461}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:12:52,903][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组 飞升
+[2022-05-07 16:12:53,633][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 352020716}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:16:17,827][command][INFO] PyCqBot: 美服 zzyzz#moc (qq=494205021,群号=174504130) 使用指令: #解码 
+CECAIAYBAMDAUFQCAECQCKABAQAQ4AQBAEGCOBABAQAQUAQBAEKDIAIBAUOQCAYBCMBACAIBAEBACBIPDE
+[2022-05-07 16:16:18,091][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1178972583}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:16:23,120][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1276303758}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:16:31,754][command][INFO] PyCqBot: 美服 zzyzz#moc (qq=494205021,群号=174504130) 使用指令: #解码 
+CECAIAYBAMDAUFQCAECQCKABAQAQ4AQBAEGCOBABAQAQUAQBAEKDIAIBAUOQCAYBCMBACAIBAEBACBIPDE
+[2022-05-07 16:16:32,030][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 548610019}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:16:55,787][command][INFO] PyCqBot: 美服 zzyzz#moc (qq=494205021,群号=174504130) 使用指令: #解码 CECAIAYBAMDAUFQCAECQCKABAQAQ4AQBAEGCOBABAQAQUAQBAEKDIAIBAUOQCAYBCMBACAIBAEBACBIPDE
+[2022-05-07 16:16:59,602][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -955567388}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:18:08,704][command][INFO] PyCqBot: 总在玩游戏的小8 (qq=1075331081,群号=477949486) 使用指令: #卡组 索拉卡
+[2022-05-07 16:18:09,412][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -959706447}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:20:47,014][command][INFO] PyCqBot: 天雪葵萱 (qq=1014495734,群号=750653891) 使用指令: #卡组 月男
+[2022-05-07 16:20:47,785][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1705369871}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:24:58,775][command][INFO] PyCqBot: 指令 # 卡组 茂凯 不存在...
+[2022-05-07 16:24:59,088][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1692315215}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:25:11,520][command][INFO] PyCqBot: showmakelove (qq=2761108312,群号=174504130) 使用指令: #卡组 茂凯
+[2022-05-07 16:25:12,535][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1931351870}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:25:41,804][command][INFO] PyCqBot: showmakelove (qq=2761108312,群号=174504130) 使用指令: #解码 CICACAIFFAAQIBIPAIBAKCAKAYBAMFY5E4XTKOADAEAQKGIBAQDA4AQCAYSSYAQBAECS4AICAYPA
+[2022-05-07 16:25:42,781][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1659865582}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:26:29,706][command][INFO] PyCqBot: 指令 #卡组。岩雀 不存在...
+[2022-05-07 16:26:29,969][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1961363656}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:26:39,391][command][INFO] PyCqBot: 莎拉的枪又卡壳了 (qq=3210417800,群号=477949486) 使用指令: #卡组 岩雀
+[2022-05-07 16:26:40,122][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 75693127}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:37:01,191][command][INFO] PyCqBot: AmazonThroch (qq=1946442840,群号=1060536929) 使用指令: #卡组 女枪
+[2022-05-07 16:37:02,448][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -63624629}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:39:41,722][command][INFO] PyCqBot: 八甲基环丁烷 (qq=363954034,群号=1060536929) 使用指令: #卡组 纳尔
+[2022-05-07 16:39:42,691][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 305875815}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:39:50,592][command][INFO] PyCqBot: Meet (qq=1187040513,群号=477949486) 使用指令: #卡组 劫
+[2022-05-07 16:39:51,416][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1926836073}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:40:42,540][command][INFO] PyCqBot: 好人 (qq=1829679733,群号=750653891) 使用指令: #卡组 泰坦
+[2022-05-07 16:40:43,373][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -600617582}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:41:06,644][MainThread][INFO] PyCqBot: 接收到 at bot 人生何处不青山 (qq=419014019,群号=477949486) 
+[2022-05-07 16:41:25,415][command][INFO] PyCqBot: 人生何处不青山 (qq=419014019,群号=477949486) 使用指令: #卡组 千珏
+[2022-05-07 16:41:26,753][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -875492741}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:42:43,097][command][INFO] PyCqBot: 海綿寶寶，肆意的笑 (qq=527111340,群号=983596236) 使用指令: #卡组 凯南
+[2022-05-07 16:42:43,823][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1150506699}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:43:08,525][command][INFO] PyCqBot: 野比胖虎 moc (qq=321227879,群号=750653891) 使用指令: #卡组 小法
+[2022-05-07 16:43:09,247][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1253930916}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:44:45,309][command][INFO] PyCqBot: 海綿寶寶，肆意的笑 (qq=527111340,群号=983596236) 使用指令: #卡组 小鱼人
+[2022-05-07 16:44:46,074][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1376717826}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:47:29,109][command][INFO] PyCqBot: 恰恰 (qq=594101469,群号=477949486) 使用指令: #卡组 飞升
+[2022-05-07 16:47:29,879][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1251969338}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:50:08,459][command][INFO] PyCqBot: 海綿寶寶，肆意的笑 (qq=527111340,群号=983596236) 使用指令: #卡组 快攻
+[2022-05-07 16:50:09,272][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1140757202}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:50:10,391][command][INFO] PyCqBot: Likulau (qq=1569526424,群号=1060536929) 使用指令: #卡组 心灵相通
+[2022-05-07 16:50:11,320][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2074949252}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:50:31,008][command][INFO] PyCqBot: 指令 # 符文赛季奖励 不存在...
+[2022-05-07 16:50:31,261][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1784457304}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:53:10,180][command][INFO] PyCqBot: 指令 # dwb变帅 不存在...
+[2022-05-07 16:53:10,432][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1708901340}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:53:23,345][command][INFO] PyCqBot: 指令 # dwb已经很帅 不存在...
+[2022-05-07 16:53:23,669][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1948933392}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:54:40,582][command][INFO] PyCqBot: wait for&爱 (qq=277692818,群号=750653891) 使用指令: #卡组 刀妹
+[2022-05-07 16:54:41,496][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -187132247}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:55:14,437][command][INFO] PyCqBot: 指令 #木瓜 不存在...
+[2022-05-07 16:55:14,801][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1025760716}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:55:23,611][command][INFO] PyCqBot: 指令 #木瓜有G奶 不存在...
+[2022-05-07 16:55:23,905][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 751977240}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 16:59:22,361][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 兰博
+[2022-05-07 16:59:27,992][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-07 16:59:27,992][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-07 16:59:54,739][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 龙女
+[2022-05-07 17:00:00,333][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-07 17:00:00,335][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-07 17:02:29,394][command][INFO] PyCqBot: wait for&爱 (qq=277692818,群号=750653891) 使用指令: #卡组 猪妹
+[2022-05-07 17:02:30,197][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 2047966816}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:03:58,753][command][INFO] PyCqBot: 亚服 bilibili这个不是派克 (qq=1937778018,群号=545327542) 使用指令: #lux
+[2022-05-07 17:04:04,277][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-07 17:04:04,278][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-07 17:05:56,433][command][INFO] PyCqBot: SeMonster (qq=84431035,群号=1060536929) 使用指令: #卡组 岩雀
+[2022-05-07 17:05:57,430][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -592783508}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:08:34,529][command][INFO] PyCqBot: Simple。 (qq=593261870,群号=632727771) 使用指令: #卡组 蛮王
+[2022-05-07 17:08:35,255][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 680618032}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:08:38,203][command][INFO] PyCqBot: 马格纳斯 (qq=1641168287,群号=1060536929) 使用指令: #卡组 嚎哭深渊
+[2022-05-07 17:08:39,206][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -2014482400}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:08:45,943][command][INFO] PyCqBot: Simple。 (qq=593261870,群号=632727771) 使用指令: #卡组 all
+[2022-05-07 17:08:46,563][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -962655972}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:09:10,819][command][INFO] PyCqBot: 指令 #群里的直男 不存在...
+[2022-05-07 17:09:11,087][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 518267290}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:09:24,716][command][INFO] PyCqBot: Simple。 (qq=593261870,群号=632727771) 使用指令: #卡组 all
+[2022-05-07 17:09:27,671][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 556213275}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:13:57,224][command][INFO] PyCqBot: 台服 swm123#1703 (qq=2209701686,群号=545327542) 使用指令: #卡组 龙女
+[2022-05-07 17:13:59,062][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1730619235}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:15:40,700][command][INFO] PyCqBot: 杰杰 (qq=7170363,群号=545327542) 使用指令: #卡组 杰斯
+[2022-05-07 17:15:41,481][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -240575149}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:17:49,624][MainThread][WARNING] PyCqBot: 未知数据协议:notice_notify_title
+[2022-05-07 17:18:34,480][command][INFO] PyCqBot: Alpha(美服 #ZG18)互投 (qq=3372065946,群号=545327542) 使用指令: #卡组 岩雀
+[2022-05-07 17:18:40,152][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-07 17:18:40,153][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-07 17:19:08,649][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组 兰博
+[2022-05-07 17:19:09,693][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 274953697}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:20:42,302][command][INFO] PyCqBot: legend ...wait for it .. (qq=452703301,群号=750653891) 使用指令: #卡组 女枪
+[2022-05-07 17:20:42,900][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组
+[2022-05-07 17:20:42,900][command][INFO] PyCqBot: 指令 #卡组 运行时错误... Error: list index out of range
+[2022-05-07 17:20:42,900][command][ERROR] PyCqBot: list index out of range
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\site-packages\pycqBot\cqApi.py", line 731, in run_command
+    self._commandList[command]["function"](commandData, cqCode_list, message, from_id)
+  File "main.py", line 317, in deck
+    print(commandData[0] == "all" or commandData[0] == "所有" or commandData[0] == "全")
+IndexError: list index out of range
+[2022-05-07 17:20:43,112][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -305944600}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:20:43,233][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 1859258716}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:21:01,898][command][INFO] PyCqBot: 美服互投 Aquila #9938 (qq=815765578,群号=477949486) 使用指令: #卡组 纳尔
+[2022-05-07 17:21:02,308][command][INFO] PyCqBot: Crane (qq=1515312555,群号=477949486) 使用指令: #卡组 金克丝
+[2022-05-07 17:21:02,651][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -535043691}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:21:03,058][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -1759719165}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:22:08,747][command][INFO] PyCqBot: 美服 TOSun#忘了 (qq=2440611781,群号=545327542) 使用指令: #原画 泽拉斯
+[2022-05-07 17:22:14,276][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-07 17:22:14,277][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-07 17:22:42,114][command][INFO] PyCqBot: 美服 TOSun#忘了 (qq=2440611781,群号=545327542) 使用指令: #help
+[2022-05-07 17:22:47,558][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': None, 'msg': 'SEND_MSG_API_ERROR', 'retcode': 100, 'status': 'failed', 'wording': '请参考 go-cqhttp 端输出'}
+[2022-05-07 17:22:47,559][asyncHttp_loop][ERROR] PyCqBot: api 发生错误 SEND_MSG_API_ERROR: 请参考 go-cqhttp 端输出 code: 100
+[2022-05-07 17:22:57,234][command][INFO] PyCqBot: TOSun (qq=2440611781,群号=750653891) 使用指令: #原画 泽拉斯
+[2022-05-07 17:22:57,995][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -936018919}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:23:24,684][command][INFO] PyCqBot: 指令 #cc05sh014t2 不存在...
+[2022-05-07 17:23:24,998][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 641408309}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:23:48,320][command][INFO] PyCqBot: TOSun (qq=2440611781,群号=750653891) 使用指令: #cc 05sh014t2
+[2022-05-07 17:23:48,624][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -816269312}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:24:09,015][command][INFO] PyCqBot: TOSun (qq=2440611781,群号=750653891) 使用指令: #cc 05SH014T2
+[2022-05-07 17:24:09,848][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': 559339820}, 'retcode': 0, 'status': 'ok'}
+[2022-05-07 17:25:13,807][command][INFO] PyCqBot: TOSun (qq=2440611781,群号=750653891) 使用指令: #cc 05SH014T1
+[2022-05-07 17:25:22,545][asyncHttp_loop][DEBUG] PyCqBot: cqAPI 响应: {'data': {'message_id': -957418453}, 'retcode': 0, 'status': 'ok'}
